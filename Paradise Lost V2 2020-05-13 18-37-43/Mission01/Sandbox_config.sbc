@@ -119,6 +119,10 @@
       <PublishedFileId>758597413</PublishedFileId>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="_SD_Nebula_SkyBox_">
+      <Name>2087229509.sbm</Name>
+      <PublishedFileId>2087229509</PublishedFileId>
+    </ModItem>
     <ModItem FriendlyName="Small Ship Mega Mod Pack [100% DX-11 Ready]">
       <Name>305329302.sbm</Name>
       <PublishedFileId>305329302</PublishedFileId>
