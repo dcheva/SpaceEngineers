@@ -1,7 +1,14 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_SkinInventory xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Character />
-  <Tools />
+  <Character>
+    <unsignedLong>2543915561435294124</unsignedLong>
+    <unsignedLong>2543915561436379936</unsignedLong>
+  </Character>
+  <Tools>
+    <unsignedLong>2543915561434893927</unsignedLong>
+    <unsignedLong>2560803425995286781</unsignedLong>
+    <unsignedLong>2560803425995208671</unsignedLong>
+  </Tools>
   <Color x="0.055555556" y="0.199999988" z="0.349494845" />
   <Model>Default_Astronaut</Model>
 </MyObjectBuilder_SkinInventory>
