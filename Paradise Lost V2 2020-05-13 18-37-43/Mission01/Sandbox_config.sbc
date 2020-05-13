@@ -114,10 +114,21 @@
     <SimplifiedSimulation>false</SimplifiedSimulation>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-      <IsDependency>true</IsDependency>
+    <ModItem FriendlyName="Better Stone v7.0.3f">
+      <Name>406244471.sbm</Name>
+      <PublishedFileId>406244471</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Space Just Got Real (1.188 Update 4)">
+      <Name>1136188499.sbm</Name>
+      <PublishedFileId>1136188499</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="[EEM] Exploration Enhancement Mod">
+      <Name>531659576.sbm</Name>
+      <PublishedFileId>531659576</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Surface Occupation">
+      <Name>1135484957.sbm</Name>
+      <PublishedFileId>1135484957</PublishedFileId>
     </ModItem>
     <ModItem FriendlyName="_SD_Nebula_SkyBox_">
       <Name>2087229509.sbm</Name>
