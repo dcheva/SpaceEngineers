@@ -3,13 +3,13 @@
   <Settings xsi:type="MyObjectBuilder_SessionSettings">
     <GameMode>Survival</GameMode>
     <InventorySizeMultiplier>10</InventorySizeMultiplier>
-    <BlocksInventorySizeMultiplier>1</BlocksInventorySizeMultiplier>
-    <AssemblerSpeedMultiplier>3</AssemblerSpeedMultiplier>
-    <AssemblerEfficiencyMultiplier>3</AssemblerEfficiencyMultiplier>
-    <RefinerySpeedMultiplier>3</RefinerySpeedMultiplier>
+    <BlocksInventorySizeMultiplier>10</BlocksInventorySizeMultiplier>
+    <AssemblerSpeedMultiplier>10</AssemblerSpeedMultiplier>
+    <AssemblerEfficiencyMultiplier>10</AssemblerEfficiencyMultiplier>
+    <RefinerySpeedMultiplier>10</RefinerySpeedMultiplier>
     <OnlineMode>OFFLINE</OnlineMode>
     <MaxPlayers>16</MaxPlayers>
-    <MaxFloatingObjects>56</MaxFloatingObjects>
+    <MaxFloatingObjects>99</MaxFloatingObjects>
     <MaxBackupSaves>5</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
@@ -29,8 +29,8 @@
     <WorldSizeKm>0</WorldSizeKm>
     <RespawnShipDelete>false</RespawnShipDelete>
     <ResetOwnership>false</ResetOwnership>
-    <WelderSpeedMultiplier>2</WelderSpeedMultiplier>
-    <GrinderSpeedMultiplier>2</GrinderSpeedMultiplier>
+    <WelderSpeedMultiplier>5</WelderSpeedMultiplier>
+    <GrinderSpeedMultiplier>5</GrinderSpeedMultiplier>
     <RealisticSound>false</RealisticSound>
     <HackSpeedMultiplier>0.33</HackSpeedMultiplier>
     <PermanentDeath>false</PermanentDeath>
@@ -49,7 +49,7 @@
     <EnableOxygen>true</EnableOxygen>
     <EnableOxygenPressurization>true</EnableOxygenPressurization>
     <Enable3rdPersonView>true</Enable3rdPersonView>
-    <EnableEncounters>false</EnableEncounters>
+    <EnableEncounters>true</EnableEncounters>
     <EnableConvertToStation>true</EnableConvertToStation>
     <StationVoxelSupport>false</StationVoxelSupport>
     <EnableSunRotation>true</EnableSunRotation>
@@ -58,14 +58,14 @@
     <Scenario>false</Scenario>
     <CanJoinRunning>false</CanJoinRunning>
     <PhysicsIterations>8</PhysicsIterations>
-    <SunRotationIntervalMinutes>1440</SunRotationIntervalMinutes>
+    <SunRotationIntervalMinutes>745.8223</SunRotationIntervalMinutes>
     <EnableJetpack>true</EnableJetpack>
     <SpawnWithTools>true</SpawnWithTools>
     <StartInRespawnScreen>false</StartInRespawnScreen>
     <EnableVoxelDestruction>true</EnableVoxelDestruction>
     <MaxDrones>5</MaxDrones>
     <EnableDrones>true</EnableDrones>
-    <EnableWolfs>true</EnableWolfs>
+    <EnableWolfs>false</EnableWolfs>
     <EnableSpiders>true</EnableSpiders>
     <FloraDensityMultiplier>1</FloraDensityMultiplier>
     <EnableStructuralSimulation>false</EnableStructuralSimulation>
@@ -102,7 +102,7 @@
     <EnableAutorespawn>true</EnableAutorespawn>
     <EnableBountyContracts>true</EnableBountyContracts>
     <EnableSupergridding>true</EnableSupergridding>
-    <EnableEconomy>false</EnableEconomy>
+    <EnableEconomy>true</EnableEconomy>
     <DepositsCountCoefficient>2</DepositsCountCoefficient>
     <DepositSizeDenominator>30</DepositSizeDenominator>
     <HarvestRatioMultiplier>1</HarvestRatioMultiplier>
@@ -114,6 +114,47 @@
     <SimplifiedSimulation>false</SimplifiedSimulation>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Text HUD API">
+      <Name>758597413.sbm</Name>
+      <PublishedFileId>758597413</PublishedFileId>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Small Ship Mega Mod Pack [100% DX-11 Ready]">
+      <Name>305329302.sbm</Name>
+      <PublishedFileId>305329302</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Ship AI Voice Basic">
+      <Name>430267269.sbm</Name>
+      <PublishedFileId>430267269</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="HydrogenRebalance">
+      <Name>1616533917.sbm</Name>
+      <PublishedFileId>1616533917</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="HUD Colors">
+      <Name>889485290.sbm</Name>
+      <PublishedFileId>889485290</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="HoverEngine">
+      <Name>1225107070.sbm</Name>
+      <PublishedFileId>1225107070</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Easy Inventory">
+      <Name>646796262.sbm</Name>
+      <PublishedFileId>646796262</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Conveyor Hinges - transfer items flexibly">
+      <Name>385778606.sbm</Name>
+      <PublishedFileId>385778606</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Colorful Icons">
+      <Name>801185519.sbm</Name>
+      <PublishedFileId>801185519</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Animated Interaction">
+      <Name>652337022.sbm</Name>
+      <PublishedFileId>652337022</PublishedFileId>
+    </ModItem>
     <ModItem FriendlyName="Farlander Buggy - Respawncar">
       <Name>1686719975.sbm</Name>
       <PublishedFileId>1686719975</PublishedFileId>
