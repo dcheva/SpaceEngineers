@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>4624480000</ElapsedGameTime>
+  <ElapsedGameTime>7188800000</ElapsedGameTime>
   <SessionName>Paradise Lost</SessionName>
   <SpectatorPosition>
     <Position x="-0.32934382554148806" y="-0.074394008015407867" z="1.5750704078872861" />
@@ -21,11 +21,11 @@
   <ControlledObject>123577579798191782</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2020-05-13T18:44:19.6439706+03:00</LastSaveTime>
+  <LastSaveTime>2020-05-13T18:50:50.5116861+03:00</LastSaveTime>
   <SpectatorDistance>19.035181</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
-    <SelectedSlot xsi:nil="true" />
+    <SelectedSlot>1</SelectedSlot>
     <Slots>
       <Slot>
         <Index>0</Index>
@@ -91,71 +91,7 @@
         </Data>
       </Slot>
     </Slots>
-    <SlotsGamepad>
-      <Slot>
-        <Index>0</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="WelderItem" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>1</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinderItem" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>2</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="HandDrillItem" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>3</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>4</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Assembler" Subtype="BasicAssembler" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>5</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Refinery" Subtype="Blast Furnace" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>6</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_WindTurbine" Subtype="LargeBlockWindTurbine" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>7</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_SolarPanel" Subtype="LargeBlockSolarPanel" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>8</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_LandingGear" Subtype="LargeBlockLandingGear" />
-        </Data>
-      </Slot>
-    </SlotsGamepad>
+    <SlotsGamepad />
   </CharacterToolbar>
   <ControlledEntities>
     <dictionary>
@@ -371,11 +307,11 @@
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.055555556" y="0.199999988" z="0.349494845" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-05-13T18:38:07.6251049+03:00</LastLoginTime>
+      <LastLoginTime>2020-05-13T18:46:19.3511328+03:00</LastLoginTime>
       <SavedCharacters>
         <long>123577579798191782</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-05-13T18:44:19.6439706+03:00</LastLogoutTime>
+      <LastLogoutTime>2020-05-13T18:50:50.5116861+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -386,7 +322,7 @@
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-05-13T18:38:08.3449941+03:00</LastLoginTime>
+      <LastLoginTime>2020-05-13T18:46:19.6820198+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -693,7 +629,7 @@
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_LocalizationSessionComponent">
       <AdditionalPaths />
       <CampaignPaths>
-        <string>D:\Steam\steamapps\workshop\content\244850\1695553625</string>
+        <string>D:\Steam\steamapps\workshop\content\244850\1695553625\Scenarios\Paradise Lost V2\Localization\Common.sbl</string>
         <string>D:\Steam\steamapps\workshop\content\244850\1695553625\Scenarios\Paradise Lost V2\Localization\Common.sbl</string>
       </CampaignPaths>
       <CampaignModFolderName />
@@ -764,7 +700,7 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855895</PlayerId>
-          <Timer>449</Timer>
+          <Timer>185</Timer>
           <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>0</ContainerId>
@@ -849,7 +785,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>12783</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>39850</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -998,8 +934,8 @@
   <CustomLoadingScreenText />
   <CustomSkybox />
   <VicinityModelsCache>
-    <string>Models\Cubes\Small\WheelSuspension3x3.mwm</string>
     <string>Models\Cubes\Small\WheelSuspension3x3mirrored.mwm</string>
+    <string>Models\Cubes\Small\WheelSuspension3x3.mwm</string>
     <string>Models\Cubes\Small\ArmorInvCorner.mwm</string>
     <string>Models\Cubes\Small\BatterySmall1x1.mwm</string>
     <string>Models\Cubes\Small\ArmorCorner.mwm</string>
@@ -1027,154 +963,157 @@
     <string>Models\Cubes\Small\Wheel1x1Construction_2.mwm</string>
     <string>Models\Cubes\Small\ParachuteHatch_Small.mwm</string>
     <string>Models\Cubes\small\Corner_LCD_Flat_1.mwm</string>
+    <string>Models\Cubes\Small\Armor\Slope2TipConstruction_3.mwm</string>
     <string>Models\Cubes\small\TextPanel_Construction_1.mwm</string>
     <string>Models\Cubes\Large\MotorRotor.mwm</string>
     <string>Models\Cubes\Large\SolarPanel.mwm</string>
-    <string>Models\Cubes\Large\light.mwm</string>
     <string>Models\Cubes\Large\SteelCatwalkConstruction_1.mwm</string>
-    <string>Models\Cubes\Large\SteelCatwalk.mwm</string>
-    <string>Models\Cubes\Large\MotorSuspension1x1.mwm</string>
-    <string>Models\Cubes\Large\SteelCatwalk_PlateConstruction_1.mwm</string>
-    <string>Models\Cubes\Large\WindowEdge.mwm</string>
-    <string>Models\Cubes\Large\passage.mwm</string>
-    <string>Models\Cubes\Large\AtmosphericThrusterSmall.mwm</string>
-    <string>Models\Cubes\Large\gyroscope.mwm</string>
-    <string>Models\Cubes\Large\Cockpit.mwm</string>
-    <string>Models\Cubes\Large\CargoContainerSmall.mwm</string>
-    <string>Models\Cubes\Large\Window1x1Flat.mwm</string>
-    <string>Models\Cubes\Large\OreDetector.mwm</string>
-    <string>Models\Cubes\Large\OxygenPressurizer.mwm</string>
-    <string>Models\Cubes\Large\Window1x1Slope.mwm</string>
-    <string>Models\Cubes\Large\ArmorSide.mwm</string>
-    <string>Models\Cubes\Large\antenna.mwm</string>
-    <string>Models\Cubes\Large\InteriorTurret.mwm</string>
-    <string>Models\Cubes\Large\Window1x1Side.mwm</string>
-    <string>Models\Cubes\Large\conveyor.mwm</string>
-    <string>Models\Cubes\Large\ConveyorTubeCurved.mwm</string>
-    <string>Models\Cubes\Large\SteelCatwalk_2SidesConstruction_1.mwm</string>
-    <string>Models\Cubes\Large\ArmorCorner.mwm</string>
-    <string>Models\Cubes\Large\WindowSquare.mwm</string>
-    <string>Models\Cubes\Large\SurvivalKit.mwm</string>
-    <string>Models\Cubes\Large\BasicRefinery.mwm</string>
-    <string>Models\Cubes\Large\OxygenGenerator.mwm</string>
-    <string>Models\Cubes\Large\BasicAssembler.mwm</string>
-    <string>Models\Cubes\Large\Connector.mwm</string>
-    <string>Models\Cubes\large\Light_1corner.mwm</string>
-    <string>Models\Cubes\Large\HydrogenEngine.mwm</string>
-    <string>Models\Cubes\Large\BatteryLarge.mwm</string>
-    <string>Models\Cubes\Large\AntennaConstruction_3.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlopeConstruction_1.mwm</string>
     <string>Models\Cubes\Large\InteriorPillarConstruction_1.mwm</string>
     <string>Models\Cubes\Large\SteelCatwalk_CornerConstruction_1.mwm</string>
     <string>Models\Cubes\Large\ButtonPanel.mwm</string>
-    <string>Models\Cubes\Large\Armor\Slope2BaseConstruction_1.mwm</string>
+    <string>Models\Cubes\Large\ArmorCorner.mwm</string>
     <string>Models\Cubes\Large\Projector.mwm</string>
+    <string>Models\Cubes\Large\ArmorSide.mwm</string>
+    <string>Models\Cubes\Large\SteelCatwalk_PlateConstruction_1.mwm</string>
     <string>Models\Cubes\Large\SlideDoor.mwm</string>
     <string>Models\Cubes\Large\Window1x1FlatInv.mwm</string>
     <string>Models\Cubes\Large\SteelCatwalk_Plate.mwm</string>
+    <string>Models\Cubes\Large\Window1x1Slope.mwm</string>
+    <string>Models\Cubes\Large\BasicRefinery.mwm</string>
     <string>Models\Cubes\Large\Window2x3Flat.mwm</string>
+    <string>Models\Cubes\Large\BasicAssembler.mwm</string>
+    <string>Models\Cubes\Large\BatteryLarge.mwm</string>
+    <string>Models\Cubes\Large\CargoContainerSmall.mwm</string>
+    <string>Models\Cubes\Large\ConveyorTubeCurved.mwm</string>
     <string>Models\Cubes\Large\ConveyorTube.mwm</string>
     <string>Models\Cubes\Large\OxygenStorage.mwm</string>
+    <string>Models\Cubes\Large\OxygenPressurizer.mwm</string>
+    <string>Models\Cubes\Large\Window1x1Flat.mwm</string>
     <string>Models\Cubes\Large\MotorStator.mwm</string>
     <string>Models\Cubes\Large\CryoPod.mwm</string>
     <string>Models\Cubes\Large\Wheel1x1Construction_3.mwm</string>
     <string>Models\Cubes\Large\InteriorPillar.mwm</string>
     <string>Models\Cubes\Large\WindTurbine.mwm</string>
     <string>Models\Cubes\Large\InteriorLight.mwm</string>
+    <string>Models\Cubes\large\Light_1corner.mwm</string>
     <string>Models\Cubes\Large\PassengerSeat.mwm</string>
     <string>Models\Cubes\large\Ladder_Construction_1.mwm</string>
     <string>Models\Cubes\Large\TextPanel.mwm</string>
-    <string>Models\Cubes\Large\PistonTopConstruction_2.mwm</string>
+    <string>Models\Cubes\Large\PistonTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlabConstruction_2.mwm</string>
+    <string>Models\Cubes\Large\Armor\Slope2TipConstruction_2.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlabConstruction_1.mwm</string>
+    <string>Models\Cubes\Large\Armor\Slope2BaseConstruction_1.mwm</string>
+    <string>Models\Cubes\Large\light.mwm</string>
+    <string>Models\Cubes\Large\SteelCatwalk.mwm</string>
+    <string>Models\Cubes\Large\MotorSuspension1x1.mwm</string>
+    <string>Models\Cubes\Large\WindowEdge.mwm</string>
+    <string>Models\Cubes\Large\passage.mwm</string>
+    <string>Models\Cubes\Large\AtmosphericThrusterSmall.mwm</string>
+    <string>Models\Cubes\Large\gyroscope.mwm</string>
+    <string>Models\Cubes\Large\Cockpit.mwm</string>
+    <string>Models\Cubes\Large\OreDetector.mwm</string>
+    <string>Models\Cubes\Large\antenna.mwm</string>
+    <string>Models\Cubes\Large\InteriorTurret.mwm</string>
+    <string>Models\Cubes\Large\Window1x1Side.mwm</string>
+    <string>Models\Cubes\Large\conveyor.mwm</string>
+    <string>Models\Cubes\Large\SteelCatwalk_2SidesConstruction_1.mwm</string>
+    <string>Models\Cubes\Large\WindowSquare.mwm</string>
+    <string>Models\Cubes\Large\SurvivalKit.mwm</string>
+    <string>Models\Cubes\Large\OxygenGenerator.mwm</string>
+    <string>Models\Cubes\Large\Connector.mwm</string>
+    <string>Models\Cubes\Large\HydrogenEngine.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlopeConstruction_1.mwm</string>
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
-    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Small\Armor\SlopePlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavySquarePlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavySlopePlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavySquarePlateCenter.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavySquarePlateCorner2BaseBack.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleLeftPlateCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateCenter.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Small\Armor\SlopePlateCorner2BaseTop.mwm</string>
-    <string>Models\Cubes\Small\Armor\SlopePlateSlab.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateInvCorner2TipBack.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseFront.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavyFacePlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySlopePlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Small\Armor\SquarePlateCorner2BaseBack.mwm</string>
-    <string>Models\Cubes\Small\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\SlopePlateCorner2BaseTop.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyFacePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\SlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Small\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleLeftPlateCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleRightPlateCorner2Base.mwm</string>
+    <string>Models\Cubes\Small\Armor\SlopePlateSlab.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySlopePlateCorner2BaseTop.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyCornerLeftPlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateCorner2BaseBack.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleRightPlateCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavyCornerTriangleRightPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleRightPlateCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavyCornerLeftPlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavyFaceTrianglePlateCorner2Tip.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Small\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleRightPlateCorner2Base.mwm</string>
-    <string>Models\Cubes\Small\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavySlopePlateCorner2BaseTop.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavySquarePlateCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateCenter.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateInvCorner2TipBack.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavyCornerRightPlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleLeftPlateCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateCenter.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavySlopePlateSlab.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleLeftPlateCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyFaceTrianglePlateCorner2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SlopePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateInvCorner2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavyCornerTriangleRightPlateCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavyCornerTriangleLeftPlateCorner2TipBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\HeavyCornerTriangleLeftPlateCorner2TipFront.mwm</string>
     <string>Models\Cubes\Large\Armor\HeavyFaceTrianglePlateCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavyCornerTriangleLeftPlateCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavyCornerTriangleRightPlateCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateInvCorner2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache>
     <string>ParadiseRock</string>
