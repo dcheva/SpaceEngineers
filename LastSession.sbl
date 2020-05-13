@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_LastSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Path>C:\Users\dcheva\AppData\Roaming\SpaceEngineers\Saves\76561198412322587\Paradise Lost V2 2020-05-13 17-26-45\Paradise Lost 000 mods</Path>
+  <Path>C:\Users\dcheva\AppData\Roaming\SpaceEngineers\Saves\76561198412322587\Paradise Lost V2 2020-05-13 18-37-43\Mission01</Path>
   <IsContentWorlds>false</IsContentWorlds>
   <IsOnline>false</IsOnline>
   <IsLobby>false</IsLobby>
-  <GameName>Paradise Lost 000 mods</GameName>
+  <GameName>Paradise Lost</GameName>
   <ServerPort>0</ServerPort>
 </MyObjectBuilder_LastSession>
