@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>74859200000</ElapsedGameTime>
+  <ElapsedGameTime>77739200000</ElapsedGameTime>
   <SessionName>Зеленая станция 2020-05-14 09:41</SessionName>
   <SpectatorPosition>
     <Position x="814.95854815807581" y="482.21285668133891" z="-3979.134950896711" />
@@ -21,11 +21,11 @@
   <ControlledObject>95826874364924781</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2020-05-14T10:44:12.8696883+03:00</LastSaveTime>
+  <LastSaveTime>2020-05-14T10:49:12.8701349+03:00</LastSaveTime>
   <SpectatorDistance>7.98245525</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
-    <SelectedSlot>3</SelectedSlot>
+    <SelectedSlot xsi:nil="true" />
     <Slots>
       <Slot>
         <Index>0</Index>
@@ -52,7 +52,7 @@
         <Index>3</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_LargeGatlingTurret" Subtype="" />
+          <DefinitionId Type="MyObjectBuilder_SmallGatlingGun" Subtype="LargeSniperRifleStatic_SEBuilder4" />
         </Data>
       </Slot>
       <Slot>
@@ -37962,7 +37962,7 @@
       <SavedCharacters>
         <long>95826874364924781</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-05-14T10:44:12.8707167+03:00</LastLogoutTime>
+      <LastLogoutTime>2020-05-14T10:49:12.8701349+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -38492,7 +38492,7 @@
                 <Index>3</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_LargeGatlingTurret" Subtype="" />
+                  <DefinitionId Type="MyObjectBuilder_SmallGatlingGun" Subtype="LargeSniperRifleStatic_SEBuilder4" />
                 </Data>
               </Slot>
               <Slot>
@@ -38535,8 +38535,8 @@
           </Toolbar>
           <EntityCameraData>
             <CameraControllerSettings EntityId="95826874364924781">
-              <IsFirstPerson>false</IsFirstPerson>
-              <Distance>7.9824552368169943</Distance>
+              <IsFirstPerson>true</IsFirstPerson>
+              <Distance>7.9824552368169934</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="90895062305649473">
@@ -38678,7 +38678,34 @@
       <item>
         <Key>144115188075855873</Key>
         <Value>
-          <Entries />
+          <Entries>
+            <Entry>
+              <name>Неизвестный сигнал 4</name>
+              <description />
+              <coords>
+                <X>2869.4918821818651</X>
+                <Y>-1721.3329039336957</Y>
+                <Z>-3120.1694916766724</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>true</alwaysVisible>
+              <color>
+                <PackedValue>4281335725</PackedValue>
+                <X>173</X>
+                <Y>255</Y>
+                <Z>47</Z>
+                <R>173</R>
+                <G>255</G>
+                <B>47</B>
+                <A>255</A>
+              </color>
+              <entityId>100162636577747921</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <DisplayName>Неизвестный сигнал</DisplayName>
+            </Entry>
+          </Entries>
         </Value>
       </item>
     </dictionary>
@@ -38752,15 +38779,20 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855873</PlayerId>
-          <Timer>87</Timer>
-          <Active>true</Active>
+          <Timer>691</Timer>
+          <Active>false</Active>
           <Competetive>false</Competetive>
-          <ContainerId>89709655858241238</ContainerId>
+          <ContainerId>100162636577747921</ContainerId>
         </PlayerContainerData>
       </PlayerData>
       <GPSForRemoval />
-      <EntitiesForRemoval />
-      <ContainerIdSmall>4</ContainerIdSmall>
+      <EntitiesForRemoval>
+        <MyEntityForRemoval>
+          <TimeLeft>686</TimeLeft>
+          <EntityId>113023015682397905</EntityId>
+        </MyEntityForRemoval>
+      </EntitiesForRemoval>
+      <ContainerIdSmall>5</ContainerIdSmall>
       <ContainerIdLarge>1</ContainerIdLarge>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContractSystem">
@@ -70038,7 +70070,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>7933</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>67916</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -70685,6 +70717,7 @@
     <string>Models\Cubes\Large\PassengerSeat.mwm</string>
     <string>Models\Cubes\Large\MedicalRoom.mwm</string>
     <string>Models\Cubes\Large\Camera.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\305329302\Models\Cubes\SniperRifle\Large\LargeSniperRifleStatic.mwm</string>
     <string>Models\Cubes\Small\GeneratorLarge.mwm</string>
     <string>Models\Cubes\Small\CargoContainerLarge.mwm</string>
     <string>Models\Cubes\Small\Collector.mwm</string>
