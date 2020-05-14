@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>63349600000</ElapsedGameTime>
+  <ElapsedGameTime>66222880000</ElapsedGameTime>
   <SessionName>Зеленая станция 2020-05-14 09:41</SessionName>
   <SpectatorPosition>
     <Position x="-442.86686847011356" y="127.90940286241354" z="-124.18989825696249" />
@@ -17,15 +17,15 @@
   <SpectatorSpeed x="0.1" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraController>Entity</CameraController>
-  <CameraEntity>127011633180669357</CameraEntity>
-  <ControlledObject>127011633180669357</ControlledObject>
+  <CameraEntity>95826874364924781</CameraEntity>
+  <ControlledObject>95826874364924781</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2020-05-14T10:24:12.8526436+03:00</LastSaveTime>
-  <SpectatorDistance>13.89497</SpectatorDistance>
+  <LastSaveTime>2020-05-14T10:29:12.8612362+03:00</LastSaveTime>
+  <SpectatorDistance>29.3296261</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
-    <SelectedSlot>1</SelectedSlot>
+    <SelectedSlot>0</SelectedSlot>
     <Slots>
       <Slot>
         <Index>0</Index>
@@ -160,14 +160,7 @@
   <ControlledEntities>
     <dictionary>
       <item>
-        <Key>127011633180669357</Key>
-        <Value>
-          <ClientId>76561198412322587</ClientId>
-          <SerialId>0</SerialId>
-        </Value>
-      </item>
-      <item>
-        <Key>142851170388874386</Key>
+        <Key>95826874364924781</Key>
         <Value>
           <ClientId>76561198412322587</ClientId>
           <SerialId>0</SerialId>
@@ -39415,7 +39408,7 @@
       <SavedCharacters>
         <long>95826874364924781</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-05-14T10:24:12.8526436+03:00</LastLogoutTime>
+      <LastLogoutTime>2020-05-14T10:29:12.8612362+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -39993,9 +39986,9 @@
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="127011633180669357">
-              <IsFirstPerson>true</IsFirstPerson>
-              <Distance>13.89496965454264</Distance>
-              <HeadAngle x="0" y="0" />
+              <IsFirstPerson>false</IsFirstPerson>
+              <Distance>29.329626091699765</Distance>
+              <HeadAngle x="3.9039216" y="-4.5666213" />
             </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlots>
@@ -40121,7 +40114,34 @@
       <item>
         <Key>144115188075855873</Key>
         <Value>
-          <Entries />
+          <Entries>
+            <Entry>
+              <name>Неизвестный сигнал 3</name>
+              <description />
+              <coords>
+                <X>845.9067633487665</X>
+                <Y>475.76904807157382</Y>
+                <Z>-3977.9990620661893</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>true</alwaysVisible>
+              <color>
+                <PackedValue>4281335725</PackedValue>
+                <X>173</X>
+                <Y>255</Y>
+                <Z>47</Z>
+                <R>173</R>
+                <G>255</G>
+                <B>47</B>
+                <A>255</A>
+              </color>
+              <entityId>89709655858241238</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <DisplayName>Неизвестный сигнал</DisplayName>
+            </Entry>
+          </Entries>
         </Value>
       </item>
     </dictionary>
@@ -40195,15 +40215,20 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855873</PlayerId>
-          <Timer>214</Timer>
-          <Active>true</Active>
+          <Timer>586</Timer>
+          <Active>false</Active>
           <Competetive>false</Competetive>
-          <ContainerId>98265170985291762</ContainerId>
+          <ContainerId>89709655858241238</ContainerId>
         </PlayerContainerData>
       </PlayerData>
       <GPSForRemoval />
-      <EntitiesForRemoval />
-      <ContainerIdSmall>3</ContainerIdSmall>
+      <EntitiesForRemoval>
+        <MyEntityForRemoval>
+          <TimeLeft>814</TimeLeft>
+          <EntityId>131086303858239471</EntityId>
+        </MyEntityForRemoval>
+      </EntitiesForRemoval>
+      <ContainerIdSmall>4</ContainerIdSmall>
       <ContainerIdLarge>1</ContainerIdLarge>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContractSystem">
@@ -70994,7 +71019,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>9133</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>68416</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -71714,6 +71739,7 @@
   <VicinityVoxelCache>
     <string>Stone_01</string>
     <string>Niggliite_01</string>
+    <string>Gold_01</string>
   </VicinityVoxelCache>
   <RemoteAdminSettings>
     <dictionary />

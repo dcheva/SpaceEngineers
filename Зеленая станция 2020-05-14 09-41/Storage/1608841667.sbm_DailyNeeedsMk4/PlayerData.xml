@@ -2,9 +2,9 @@
 <ArrayOfPlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <PlayerData>
     <steamid>76561198412322587</steamid>
-    <hunger>93.76141</hunger>
-    <thirst>84.39819</thirst>
-    <fatigue>100</fatigue>
+    <hunger>92.95712</hunger>
+    <thirst>82.38678</thirst>
+    <fatigue>98.70002</fatigue>
     <dead>false</dead>
   </PlayerData>
 </ArrayOfPlayerData>
