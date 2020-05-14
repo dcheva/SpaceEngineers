@@ -10,7 +10,7 @@
     <OnlineMode>FRIENDS</OnlineMode>
     <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>99</MaxFloatingObjects>
-    <MaxBackupSaves>5</MaxBackupSaves>
+    <MaxBackupSaves>30</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>0</TotalPCU>
@@ -114,19 +114,9 @@
     <SimplifiedSimulation>false</SimplifiedSimulation>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Modular Encounters Spawner">
-      <Name>1521905890.sbm</Name>
-      <PublishedFileId>1521905890</PublishedFileId>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Ore Detector+">
-      <Name>1906172362.sbm</Name>
-      <PublishedFileId>1906172362</PublishedFileId>
+    <ModItem FriendlyName="Peragus Sun - vert / green">
+      <Name>2035348630.sbm</Name>
+      <PublishedFileId>2035348630</PublishedFileId>
     </ModItem>
     <ModItem FriendlyName="Azimuth Overclocked Ore Detectors~(DX-11 Ready)">
       <Name>469301711.sbm</Name>
@@ -135,10 +125,6 @@
     <ModItem FriendlyName="Automatic Ore Pickup">
       <Name>657749341.sbm</Name>
       <PublishedFileId>657749341</PublishedFileId>
-    </ModItem>
-    <ModItem FriendlyName="_SD_Nebula_SkyBox_">
-      <Name>2087229509.sbm</Name>
-      <PublishedFileId>2087229509</PublishedFileId>
     </ModItem>
     <ModItem FriendlyName="[EEM] Exploration Enhancement Mod">
       <Name>531659576.sbm</Name>
