@@ -114,15 +114,17 @@
     <SimplifiedSimulation>false</SimplifiedSimulation>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-      <IsDependency>true</IsDependency>
+    <ModItem FriendlyName="Ore Detector+">
+      <Name>1906172362.sbm</Name>
+      <PublishedFileId>1906172362</PublishedFileId>
     </ModItem>
-    <ModItem FriendlyName="Modular Encounters Spawner">
-      <Name>1521905890.sbm</Name>
-      <PublishedFileId>1521905890</PublishedFileId>
-      <IsDependency>true</IsDependency>
+    <ModItem FriendlyName="Azimuth Overclocked Ore Detectors~(DX-11 Ready)">
+      <Name>469301711.sbm</Name>
+      <PublishedFileId>469301711</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Automatic Ore Pickup">
+      <Name>657749341.sbm</Name>
+      <PublishedFileId>657749341</PublishedFileId>
     </ModItem>
     <ModItem FriendlyName="_SD_Nebula_SkyBox_">
       <Name>2087229509.sbm</Name>
