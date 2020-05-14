@@ -114,15 +114,9 @@
     <SimplifiedSimulation>false</SimplifiedSimulation>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Modular Encounters Spawner">
-      <Name>1521905890.sbm</Name>
-      <PublishedFileId>1521905890</PublishedFileId>
-      <IsDependency>true</IsDependency>
+    <ModItem FriendlyName="Viable Hydrogen">
+      <Name>1905243833.sbm</Name>
+      <PublishedFileId>1905243833</PublishedFileId>
     </ModItem>
     <ModItem FriendlyName="Better Stone v7.0.3f">
       <Name>406244471.sbm</Name>
@@ -151,10 +145,6 @@
     <ModItem FriendlyName="Ship AI Voice Basic">
       <Name>430267269.sbm</Name>
       <PublishedFileId>430267269</PublishedFileId>
-    </ModItem>
-    <ModItem FriendlyName="HydrogenRebalance">
-      <Name>1616533917.sbm</Name>
-      <PublishedFileId>1616533917</PublishedFileId>
     </ModItem>
     <ModItem FriendlyName="HUD Colors">
       <Name>889485290.sbm</Name>
