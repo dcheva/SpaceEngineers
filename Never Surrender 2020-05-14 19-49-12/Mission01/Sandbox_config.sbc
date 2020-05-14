@@ -114,6 +114,16 @@
     <SimplifiedSimulation>false</SimplifiedSimulation>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Modular Encounters Spawner">
+      <Name>1521905890.sbm</Name>
+      <PublishedFileId>1521905890</PublishedFileId>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Text HUD API">
+      <Name>758597413.sbm</Name>
+      <PublishedFileId>758597413</PublishedFileId>
+      <IsDependency>true</IsDependency>
+    </ModItem>
     <ModItem FriendlyName="Ore Detector+">
       <Name>1906172362.sbm</Name>
       <PublishedFileId>1906172362</PublishedFileId>
