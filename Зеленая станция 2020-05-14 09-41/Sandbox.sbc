@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>51855040000</ElapsedGameTime>
+  <ElapsedGameTime>54726400000</ElapsedGameTime>
   <SessionName>Зеленая станция 2020-05-14 09:41</SessionName>
   <SpectatorPosition>
     <Position x="-442.86686847011356" y="127.90940286241354" z="-124.18989825696249" />
@@ -17,11 +17,11 @@
   <SpectatorSpeed x="0.1" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraController>Entity</CameraController>
-  <CameraEntity>95826874364924781</CameraEntity>
-  <ControlledObject>95826874364924781</ControlledObject>
+  <CameraEntity>129894013740607217</CameraEntity>
+  <ControlledObject>129894013740607217</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2020-05-14T10:04:12.8400501+03:00</LastSaveTime>
+  <LastSaveTime>2020-05-14T10:09:12.8414668+03:00</LastSaveTime>
   <SpectatorDistance>36.2380257</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -160,7 +160,14 @@
   <ControlledEntities>
     <dictionary>
       <item>
-        <Key>95826874364924781</Key>
+        <Key>129894013740607217</Key>
+        <Value>
+          <ClientId>76561198412322587</ClientId>
+          <SerialId>0</SerialId>
+        </Value>
+      </item>
+      <item>
+        <Key>105021991502565518</Key>
         <Value>
           <ClientId>76561198412322587</ClientId>
           <SerialId>0</SerialId>
@@ -38694,13 +38701,13 @@
         <PlayerId>144115188075855873</PlayerId>
         <FactionId>265334579013214840</FactionId>
         <Relation>Enemies</Relation>
-        <Reputation>-922</Reputation>
+        <Reputation>-900</Reputation>
       </MyObjectBuilder_PlayerFactionRelation>
       <MyObjectBuilder_PlayerFactionRelation>
         <PlayerId>144115188075855873</PlayerId>
         <FactionId>235713928194588548</FactionId>
         <Relation>Enemies</Relation>
-        <Reputation>-1058</Reputation>
+        <Reputation>-1083</Reputation>
       </MyObjectBuilder_PlayerFactionRelation>
     </RelationsWithPlayers>
     <Requests />
@@ -38871,7 +38878,7 @@
       <SavedCharacters>
         <long>95826874364924781</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-05-14T10:04:12.8400501+03:00</LastLogoutTime>
+      <LastLogoutTime>2020-05-14T10:09:12.8434892+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -39448,11 +39455,6 @@
               <Distance>2.5</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
-            <CameraControllerSettings EntityId="104589224050959518">
-              <IsFirstPerson>true</IsFirstPerson>
-              <Distance>36.238026632988124</Distance>
-              <HeadAngle x="43.022522" y="-0.961397767" />
-            </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlots>
             <Vector3>
@@ -39577,7 +39579,34 @@
       <item>
         <Key>144115188075855873</Key>
         <Value>
-          <Entries />
+          <Entries>
+            <Entry>
+              <name>Неизвестный сигнал 2</name>
+              <description />
+              <coords>
+                <X>8416.71565033313</X>
+                <Y>9373.91993858812</Y>
+                <Z>13487.593861444282</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>true</alwaysVisible>
+              <color>
+                <PackedValue>4281335725</PackedValue>
+                <X>173</X>
+                <Y>255</Y>
+                <Z>47</Z>
+                <R>173</R>
+                <G>255</G>
+                <B>47</B>
+                <A>255</A>
+              </color>
+              <entityId>98265170985291762</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <DisplayName>Неизвестный сигнал</DisplayName>
+            </Entry>
+          </Entries>
         </Value>
       </item>
     </dictionary>
@@ -39651,20 +39680,24 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855873</PlayerId>
-          <Timer>282</Timer>
-          <Active>true</Active>
+          <Timer>1050</Timer>
+          <Active>false</Active>
           <Competetive>false</Competetive>
-          <ContainerId>84873534735029514</ContainerId>
+          <ContainerId>98265170985291762</ContainerId>
         </PlayerContainerData>
       </PlayerData>
       <GPSForRemoval />
       <EntitiesForRemoval>
         <MyEntityForRemoval>
-          <TimeLeft>321</TimeLeft>
+          <TimeLeft>22</TimeLeft>
           <EntityId>73797460679099175</EntityId>
         </MyEntityForRemoval>
+        <MyEntityForRemoval>
+          <TimeLeft>882</TimeLeft>
+          <EntityId>122060807035347437</EntityId>
+        </MyEntityForRemoval>
       </EntitiesForRemoval>
-      <ContainerIdSmall>2</ContainerIdSmall>
+      <ContainerIdSmall>3</ContainerIdSmall>
       <ContainerIdLarge>1</ContainerIdLarge>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContractSystem">
@@ -70502,7 +70535,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>11900</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>70983</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -71058,10 +71091,8 @@
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_PirateAntennas">
       <PiratesIdentity>144115188075855874</PiratesIdentity>
       <Drones>
-        <MyPirateDrone EntityId="126230703031651850" AntennaEntityId="93670543109564319" DespawnTimer="502834" />
-        <MyPirateDrone EntityId="120868821834845382" AntennaEntityId="93670543109564319" DespawnTimer="502850" />
-        <MyPirateDrone EntityId="136344287293137439" AntennaEntityId="93670543109564319" DespawnTimer="502850" />
-        <MyPirateDrone EntityId="82049229558449813" AntennaEntityId="93670543109564319" DespawnTimer="502867" />
+        <MyPirateDrone EntityId="136344287293137439" AntennaEntityId="93670543109564319" DespawnTimer="203751" />
+        <MyPirateDrone EntityId="82049229558449813" AntennaEntityId="93670543109564319" DespawnTimer="203768" />
       </Drones>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_Encounters">
@@ -71112,8 +71143,78 @@
     </Triggers>
   </MissionTriggers>
   <CustomSkybox />
-  <VicinityModelsCache />
-  <VicinityArmorModelsCache />
+  <VicinityModelsCache>
+    <string>Models\Cubes\Small\CargoContainerMedium.mwm</string>
+    <string>Models\Cubes\Small\ConveyorHub.mwm</string>
+    <string>Models\Cubes\Small\ConveyorFrameMedium.mwm</string>
+    <string>Models\Cubes\Small\RocketLauncherReload.mwm</string>
+    <string>Models\Cubes\Small\conveyor.mwm</string>
+    <string>Models\Cubes\Small\gyroscope.mwm</string>
+    <string>Models\Cubes\Small\ConveyorTubeCurved.mwm</string>
+    <string>Models\Cubes\small\CockpitFighter.mwm</string>
+    <string>Models\Cubes\Small\GeneratorSmall.mwm</string>
+    <string>Models\Cubes\Small\OxygenGenerator.mwm</string>
+    <string>Models\Cubes\Small\BatterySmall.mwm</string>
+    <string>Models\Cubes\Small\ConveyorTube.mwm</string>
+    <string>Models\Cubes\Small\light.mwm</string>
+    <string>Models\Cubes\Small\AtmosphericThrusterSmall.mwm</string>
+    <string>Models\Cubes\Small\ThrustSmall.mwm</string>
+    <string>Models\Cubes\Small\GatlingGun.mwm</string>
+    <string>Models\Cubes\Small\AtmosphericThrusterLarge.mwm</string>
+    <string>Models\Cubes\Small\ThrustLarge.mwm</string>
+    <string>Models\Cubes\Small\beacon.mwm</string>
+    <string>Models\Cubes\Small\LandingGear.mwm</string>
+    <string>Models\Cubes\Small\Camera.mwm</string>
+    <string>Models\Cubes\Small\ConnectorMedium.mwm</string>
+    <string>Models\Cubes\Small\antenna.mwm</string>
+  </VicinityModelsCache>
+  <VicinityArmorModelsCache>
+    <string>Models\Cubes\Small\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Small\Armor\SlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyFacePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyCornerLeftPlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateInvCorner2TipBack.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Small\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyCornerRightPlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySlopePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\FaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Small\Armor\SlopePlateCorner2BaseTop.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyInvFacePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateCorner2BaseBack.mwm</string>
+  </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <RemoteAdminSettings>
     <dictionary />
