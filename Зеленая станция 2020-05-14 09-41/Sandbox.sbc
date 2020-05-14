@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>57589600000</ElapsedGameTime>
+  <ElapsedGameTime>60469600000</ElapsedGameTime>
   <SessionName>Зеленая станция 2020-05-14 09:41</SessionName>
   <SpectatorPosition>
     <Position x="-442.86686847011356" y="127.90940286241354" z="-124.18989825696249" />
@@ -17,11 +17,11 @@
   <SpectatorSpeed x="0.1" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraController>Entity</CameraController>
-  <CameraEntity>95826874364924781</CameraEntity>
-  <ControlledObject>95826874364924781</ControlledObject>
+  <CameraEntity>127011633180669357</CameraEntity>
+  <ControlledObject>127011633180669357</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2020-05-14T10:14:12.8539876+03:00</LastSaveTime>
+  <LastSaveTime>2020-05-14T10:19:12.8527551+03:00</LastSaveTime>
   <SpectatorDistance>36.2380257</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -160,7 +160,14 @@
   <ControlledEntities>
     <dictionary>
       <item>
-        <Key>95826874364924781</Key>
+        <Key>127011633180669357</Key>
+        <Value>
+          <ClientId>76561198412322587</ClientId>
+          <SerialId>0</SerialId>
+        </Value>
+      </item>
+      <item>
+        <Key>142851170388874386</Key>
         <Value>
           <ClientId>76561198412322587</ClientId>
           <SerialId>0</SerialId>
@@ -39408,7 +39415,7 @@
       <SavedCharacters>
         <long>95826874364924781</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-05-14T10:14:12.8539876+03:00</LastLogoutTime>
+      <LastLogoutTime>2020-05-14T10:19:12.8527551+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -40188,7 +40195,7 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855873</PlayerId>
-          <Timer>814</Timer>
+          <Timer>514</Timer>
           <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>98265170985291762</ContainerId>
@@ -40197,7 +40204,7 @@
       <GPSForRemoval />
       <EntitiesForRemoval>
         <MyEntityForRemoval>
-          <TimeLeft>583</TimeLeft>
+          <TimeLeft>283</TimeLeft>
           <EntityId>122060807035347437</EntityId>
         </MyEntityForRemoval>
       </EntitiesForRemoval>
@@ -70992,7 +70999,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>9200</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>69166</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -71599,77 +71606,87 @@
   <CustomSkybox />
   <VicinityModelsCache>
     <string>Models\Cubes\Small\gyroscope.mwm</string>
+    <string>Models\Cubes\Small\GeneratorLarge.mwm</string>
+    <string>Models\Cubes\Small\CargoContainerLarge.mwm</string>
+    <string>Models\Cubes\Small\Collector.mwm</string>
+    <string>Models\Cubes\Small\OxygenGenerator.mwm</string>
+    <string>Models\Cubes\Small\ThrustSmall.mwm</string>
+    <string>Models\Cubes\Small\cockpit.mwm</string>
+    <string>Models\Cubes\Small\ConnectorMedium.mwm</string>
+    <string>Models\Cubes\Small\ConveyorTurnMedium.mwm</string>
+    <string>Models\Cubes\Small\antenna.mwm</string>
+    <string>Models\Cubes\Small\ConveyorHub.mwm</string>
+    <string>Models\Cubes\Small\Grinder.mwm</string>
+    <string>Models\Cubes\Small\Welder.mwm</string>
+    <string>Models\Cubes\Small\LandingGear.mwm</string>
+    <string>Models\Cubes\Small\light.mwm</string>
+    <string>Models\Cubes\Small\ConveyorFrameMedium.mwm</string>
     <string>Models\Cubes\Small\conveyor.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateConstruction_2.mwm</string>
     <string>Models\Cubes\Small\ConveyorTubeCurved.mwm</string>
     <string>Models\Cubes\small\CockpitFighter.mwm</string>
     <string>Models\Cubes\Small\GeneratorSmall.mwm</string>
-    <string>Models\Cubes\Small\OxygenGenerator.mwm</string>
     <string>Models\Cubes\Small\BatterySmall.mwm</string>
     <string>Models\Cubes\Small\ConveyorTube.mwm</string>
-    <string>Models\Cubes\Small\light.mwm</string>
     <string>Models\Cubes\Small\AtmosphericThrusterSmall.mwm</string>
-    <string>Models\Cubes\Small\ThrustSmall.mwm</string>
     <string>Models\Cubes\Small\AtmosphericThrusterLarge.mwm</string>
     <string>Models\Cubes\Small\ThrustLarge.mwm</string>
     <string>Models\Cubes\Small\GatlingGun.mwm</string>
     <string>Models\Cubes\Small\beacon.mwm</string>
-    <string>Models\Cubes\Small\LandingGear.mwm</string>
     <string>Models\Cubes\Small\Camera.mwm</string>
-    <string>Models\Cubes\Small\ConnectorMedium.mwm</string>
-    <string>Models\Cubes\Small\ConveyorFrameMedium.mwm</string>
-    <string>Models\Cubes\Small\antenna.mwm</string>
+    <string>Models\Cubes\Small\Armor\Slope2TipConstruction_2.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateConstruction_1.mwm</string>
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlate.mwm</string>
     <string>Models\Cubes\Small\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseTop.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Small\Armor\FaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Small\Armor\SlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Small\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavySquarePlate.mwm</string>
     <string>Models\Cubes\Small\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Small\Armor\SlopePlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavyFacePlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\SlopePlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseLeft.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavyCornerLeftPlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavySlopePlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Small\Armor\SquarePlateInvCorner2TipBack.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Small\Armor\SquarePlateCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateSlope2TipBack.mwm</string>
     <string>Models\Cubes\Small\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseFront.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseRight.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavyCornerTriangleRightPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavyCornerRightPlate.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavySlopePlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\FaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseFront.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySlopePlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseRight.mwm</string>
     <string>Models\Cubes\Small\Armor\SlopePlateCorner2BaseTop.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseRight.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2BaseLeft.mwm</string>
     <string>Models\Cubes\Small\Armor\HeavySquarePlateSlope2TipBack.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Small\Armor\InvFaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\HeavyInvFacePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyCornerTriangleLeftPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Small\Armor\SquarePlateCorner2BaseBack.mwm</string>
+    <string>Models\Cubes\Small\Armor\HeavyInvFacePlate.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache>
-    <string>Stone_02</string>
-    <string>Nickel_01</string>
-    <string>Platinum_01</string>
+    <string>Stone_01</string>
+    <string>Niggliite_01</string>
   </VicinityVoxelCache>
   <RemoteAdminSettings>
     <dictionary />
