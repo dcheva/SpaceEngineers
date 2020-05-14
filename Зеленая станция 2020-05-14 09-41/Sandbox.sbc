@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>80619200000</ElapsedGameTime>
+  <ElapsedGameTime>83499200000</ElapsedGameTime>
   <SessionName>Зеленая станция 2020-05-14 09:41</SessionName>
   <SpectatorPosition>
     <Position x="814.95854815807581" y="482.21285668133891" z="-3979.134950896711" />
@@ -16,13 +16,13 @@
   </SpectatorPosition>
   <SpectatorSpeed x="0.1" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
-  <CameraController>Entity</CameraController>
-  <CameraEntity>95826874364924781</CameraEntity>
-  <ControlledObject>95826874364924781</ControlledObject>
+  <CameraController>ThirdPersonSpectator</CameraController>
+  <CameraEntity>0</CameraEntity>
+  <ControlledObject>135648888539717895</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2020-05-14T10:54:12.8712479+03:00</LastSaveTime>
-  <SpectatorDistance>47.0490265</SpectatorDistance>
+  <LastSaveTime>2020-05-14T10:59:12.8713269+03:00</LastSaveTime>
+  <SpectatorDistance>133.3488</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
     <SelectedSlot>3</SelectedSlot>
@@ -80,7 +80,7 @@
         <Index>7</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_SolarPanel" Subtype="LargeBlockSolarPanel" />
+          <DefinitionId Type="MyObjectBuilder_Gyro" Subtype="LargeBlockGyro" />
         </Data>
       </Slot>
       <Slot>
@@ -160,7 +160,21 @@
   <ControlledEntities>
     <dictionary>
       <item>
-        <Key>95826874364924781</Key>
+        <Key>135648888539717895</Key>
+        <Value>
+          <ClientId>76561198412322587</ClientId>
+          <SerialId>0</SerialId>
+        </Value>
+      </item>
+      <item>
+        <Key>142851170388874386</Key>
+        <Value>
+          <ClientId>76561198412322587</ClientId>
+          <SerialId>0</SerialId>
+        </Value>
+      </item>
+      <item>
+        <Key>101446586257968789</Key>
         <Value>
           <ClientId>76561198412322587</ClientId>
           <SerialId>0</SerialId>
@@ -39436,7 +39450,7 @@
       <SavedCharacters>
         <long>95826874364924781</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-05-14T10:54:12.8712479+03:00</LastLogoutTime>
+      <LastLogoutTime>2020-05-14T10:59:12.873421+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -39994,7 +40008,7 @@
                 <Index>7</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_SolarPanel" Subtype="LargeBlockSolarPanel" />
+                  <DefinitionId Type="MyObjectBuilder_Gyro" Subtype="LargeBlockGyro" />
                 </Data>
               </Slot>
               <Slot>
@@ -40024,8 +40038,8 @@
               <HeadAngle x="3.9039216" y="-4.5666213" />
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="135648888539717895">
-              <IsFirstPerson>true</IsFirstPerson>
-              <Distance>62.050645338800912</Distance>
+              <IsFirstPerson>false</IsFirstPerson>
+              <Distance>133.34880601363253</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
@@ -40157,9 +40171,9 @@
               <name>Неизвестный сигнал 4</name>
               <description />
               <coords>
-                <X>2869.4918821818651</X>
-                <Y>-1721.3329039336957</Y>
-                <Z>-3120.1694916766724</Z>
+                <X>2869.4918918800395</X>
+                <Y>-1721.3329053826092</Y>
+                <Z>-3120.1696399675166</Z>
               </coords>
               <isFinal>true</isFinal>
               <showOnHud>true</showOnHud>
@@ -40262,7 +40276,7 @@
       <GPSForRemoval />
       <EntitiesForRemoval>
         <MyEntityForRemoval>
-          <TimeLeft>386</TimeLeft>
+          <TimeLeft>86</TimeLeft>
           <EntityId>113023015682397905</EntityId>
         </MyEntityForRemoval>
       </EntitiesForRemoval>
@@ -71146,7 +71160,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>7867</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>67850</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
