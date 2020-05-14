@@ -696,3 +696,613 @@
   <dead>false</dead>
 </PlayerData>
 [09:55:07] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:55:12] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:55:12] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.4128952</hunger>
+  <thirst>96.03087</thirst>
+  <fatigue>99.7000046</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:55:12] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:55:17] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:55:17] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.39949</hunger>
+  <thirst>95.997345</thirst>
+  <fatigue>99.6000061</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:55:17] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:55:22] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:55:22] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.3860855</hunger>
+  <thirst>95.96382</thirst>
+  <fatigue>99.50001</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:55:22] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:55:27] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:55:27] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.37268</hunger>
+  <thirst>95.9303</thirst>
+  <fatigue>99.40001</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:55:27] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:55:32] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:55:32] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.3592758</hunger>
+  <thirst>95.8967743</thirst>
+  <fatigue>99.30001</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:55:32] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:55:37] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:55:37] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.34587</hunger>
+  <thirst>95.86325</thirst>
+  <fatigue>99.20001</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:55:37] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:55:42] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:55:42] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.3324661</hunger>
+  <thirst>95.82973</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:55:42] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:55:47] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:55:47] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.31906</hunger>
+  <thirst>95.7962</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:55:47] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:55:52] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:55:52] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.30566</hunger>
+  <thirst>95.76268</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:55:52] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:55:57] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:55:57] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.29225</hunger>
+  <thirst>95.72916</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:55:57] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:56:02] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:56:02] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.27885</hunger>
+  <thirst>95.69563</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:56:02] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:56:07] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:56:07] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.26544</hunger>
+  <thirst>95.66211</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:56:07] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:56:12] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:56:12] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.25204</hunger>
+  <thirst>95.6285858</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:56:12] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:56:17] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:56:17] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.23863</hunger>
+  <thirst>95.59506</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:56:17] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:56:22] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:56:22] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.22523</hunger>
+  <thirst>95.56154</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:56:22] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:56:27] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:56:27] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.21182</hunger>
+  <thirst>95.5280151</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:56:27] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:56:32] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:56:32] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.19842</hunger>
+  <thirst>95.49449</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:56:32] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:56:37] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:56:37] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.18501</hunger>
+  <thirst>95.46097</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:56:37] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:56:42] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:56:42] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.17161</hunger>
+  <thirst>95.4274445</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:56:42] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:56:47] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:56:47] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.1582</hunger>
+  <thirst>95.39392</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:56:47] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:56:52] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:56:52] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.1448</hunger>
+  <thirst>95.3604</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:56:52] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:56:57] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:56:57] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.13139</hunger>
+  <thirst>95.32687</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:56:57] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:57:02] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:57:02] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.11799</hunger>
+  <thirst>95.29335</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:57:02] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:57:07] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:57:07] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.10458</hunger>
+  <thirst>95.25983</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:57:07] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:57:12] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:57:12] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.09118</hunger>
+  <thirst>95.2263</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:57:12] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:57:17] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:57:17] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.077774</hunger>
+  <thirst>95.19278</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:57:17] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:57:22] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:57:22] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.06437</hunger>
+  <thirst>95.159256</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:57:22] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:57:27] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:57:27] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.0509644</hunger>
+  <thirst>95.12573</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:57:27] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:57:32] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:57:32] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.03756</hunger>
+  <thirst>95.09221</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:57:32] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:57:37] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:57:37] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.0241547</hunger>
+  <thirst>95.0586853</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:57:37] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:57:42] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:57:42] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>98.01075</hunger>
+  <thirst>95.02516</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:57:42] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:57:47] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:57:47] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.997345</hunger>
+  <thirst>94.99164</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:57:47] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:57:52] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:57:52] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.98394</hunger>
+  <thirst>94.9581146</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:57:52] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:57:57] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:57:57] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.9705353</hunger>
+  <thirst>94.92459</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:57:57] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:58:02] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:58:02] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.95713</hunger>
+  <thirst>94.89107</thirst>
+  <fatigue>99.9</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:58:02] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:58:07] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:58:07] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.9437256</hunger>
+  <thirst>94.8575439</thirst>
+  <fatigue>99.8</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:58:07] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:58:12] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:58:12] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.93032</hunger>
+  <thirst>94.82402</thirst>
+  <fatigue>99.7000046</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:58:12] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:58:17] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:58:17] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.9169159</hunger>
+  <thirst>94.7905</thirst>
+  <fatigue>99.6000061</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:58:17] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:58:22] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:58:22] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.90351</hunger>
+  <thirst>94.75697</thirst>
+  <fatigue>99.50001</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:58:22] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:58:27] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:58:27] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.89011</hunger>
+  <thirst>94.72345</thirst>
+  <fatigue>99.40001</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:58:27] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:58:32] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:58:32] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.8767</hunger>
+  <thirst>94.6899261</thirst>
+  <fatigue>99.30001</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:58:32] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:58:37] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:58:37] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.8633</hunger>
+  <thirst>94.6564</thirst>
+  <fatigue>99.20001</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:58:37] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:58:43] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:58:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.84989</hunger>
+  <thirst>94.62288</thirst>
+  <fatigue>99.10001</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:58:43] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:58:48] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:58:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.83649</hunger>
+  <thirst>94.5893555</thirst>
+  <fatigue>99.0000153</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:58:48] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:58:53] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:58:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.82308</hunger>
+  <thirst>94.55583</thirst>
+  <fatigue>98.90002</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:58:53] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:58:58] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:58:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.80968</hunger>
+  <thirst>94.52231</thirst>
+  <fatigue>98.80002</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:58:58] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:59:03] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:59:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.79627</hunger>
+  <thirst>94.4887848</thirst>
+  <fatigue>98.70002</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:59:03] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:59:08] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:59:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.78287</hunger>
+  <thirst>94.45526</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:59:08] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:59:13] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:59:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.76946</hunger>
+  <thirst>94.42174</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:59:13] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:59:18] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:59:18] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.75606</hunger>
+  <thirst>94.3882141</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:59:18] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:59:23] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:59:23] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.74265</hunger>
+  <thirst>94.35469</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:59:23] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:59:28] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:59:28] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.72925</hunger>
+  <thirst>94.32117</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:59:28] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:59:33] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:59:33] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.71584</hunger>
+  <thirst>94.28764</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:59:33] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:59:38] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:59:38] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.70244</hunger>
+  <thirst>94.25412</thirst>
+  <fatigue>100</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:59:38] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:59:43] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:59:43] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.68903</hunger>
+  <thirst>94.2206</thirst>
+  <fatigue>99.9</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:59:43] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:59:48] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:59:48] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.67563</hunger>
+  <thirst>94.18707</thirst>
+  <fatigue>99.8</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:59:48] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:59:53] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:59:53] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.6622238</hunger>
+  <thirst>94.15355</thirst>
+  <fatigue>99.7000046</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:59:53] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[09:59:58] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[09:59:58] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.64882</hunger>
+  <thirst>94.1200256</thirst>
+  <fatigue>99.6000061</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[09:59:58] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[10:00:03] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[10:00:03] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.6354141</hunger>
+  <thirst>94.0865</thirst>
+  <fatigue>99.50001</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[10:00:03] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[10:00:08] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[10:00:08] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.62201</hunger>
+  <thirst>94.05298</thirst>
+  <fatigue>99.40001</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[10:00:08] Stollie.DailyNeeds.PlayerDataLoaded to Client
+[10:00:13] Stollie.DailyNeeds.PlayerDataLoaded to Server
+[10:00:13] Message sent from Server.cs to Client.cs: <?xml version="1.0" encoding="utf-16"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <steamid>76561198412322587</steamid>
+  <hunger>97.6086044</hunger>
+  <thirst>94.019455</thirst>
+  <fatigue>99.30001</fatigue>
+  <dead>false</dead>
+</PlayerData>
+[10:00:13] Stollie.DailyNeeds.PlayerDataLoaded to Client
