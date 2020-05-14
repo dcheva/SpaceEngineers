@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>69099200000</ElapsedGameTime>
+  <ElapsedGameTime>71979200000</ElapsedGameTime>
   <SessionName>Зеленая станция 2020-05-14 09:41</SessionName>
   <SpectatorPosition>
-    <Position x="-442.86686847011356" y="127.90940286241354" z="-124.18989825696249" />
+    <Position x="-442.86686847011362" y="127.90940286241356" z="-124.18989825696255" />
     <Forward x="-0.511069059" y="0.05099711" z="-0.8580255" />
     <Up x="0.0734505355" y="0.997178137" z="0.0155180758" />
     <Orientation>
@@ -17,15 +17,15 @@
   <SpectatorSpeed x="0.1" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraController>Entity</CameraController>
-  <CameraEntity>95826874364924781</CameraEntity>
-  <ControlledObject>95826874364924781</ControlledObject>
+  <CameraEntity>135648888539717895</CameraEntity>
+  <ControlledObject>135648888539717895</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2020-05-14T10:34:12.86921+03:00</LastSaveTime>
+  <LastSaveTime>2020-05-14T10:39:12.8694518+03:00</LastSaveTime>
   <SpectatorDistance>62.0506439</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
-    <SelectedSlot>0</SelectedSlot>
+    <SelectedSlot>1</SelectedSlot>
     <Slots>
       <Slot>
         <Index>0</Index>
@@ -160,7 +160,21 @@
   <ControlledEntities>
     <dictionary>
       <item>
-        <Key>95826874364924781</Key>
+        <Key>135648888539717895</Key>
+        <Value>
+          <ClientId>76561198412322587</ClientId>
+          <SerialId>0</SerialId>
+        </Value>
+      </item>
+      <item>
+        <Key>142851170388874386</Key>
+        <Value>
+          <ClientId>76561198412322587</ClientId>
+          <SerialId>0</SerialId>
+        </Value>
+      </item>
+      <item>
+        <Key>101446586257968789</Key>
         <Value>
           <ClientId>76561198412322587</ClientId>
           <SerialId>0</SerialId>
@@ -35804,7 +35818,7 @@
         <PlayerId>144115188075855873</PlayerId>
         <FactionId>250525947929290129</FactionId>
         <Relation>Neutral</Relation>
-        <Reputation>-20</Reputation>
+        <Reputation>-24</Reputation>
       </MyObjectBuilder_PlayerFactionRelation>
       <MyObjectBuilder_PlayerFactionRelation>
         <PlayerId>144115188075855874</PlayerId>
@@ -37784,7 +37798,7 @@
         <PlayerId>144115188075855873</PlayerId>
         <FactionId>265334579013214840</FactionId>
         <Relation>Enemies</Relation>
-        <Reputation>-900</Reputation>
+        <Reputation>-896</Reputation>
       </MyObjectBuilder_PlayerFactionRelation>
       <MyObjectBuilder_PlayerFactionRelation>
         <PlayerId>144115188075855873</PlayerId>
@@ -37811,6 +37825,7 @@
           <long>235713928194588548</long>
           <long>222790072424094648</long>
           <long>265334579013214840</long>
+          <long>240467328932716479</long>
         </DiscoveredFactions>
       </MyObjectBuilder_FactionsVisEntry>
     </PlayerToFactionsVis>
@@ -37961,7 +37976,7 @@
       <SavedCharacters>
         <long>95826874364924781</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-05-14T10:34:12.86921+03:00</LastLogoutTime>
+      <LastLogoutTime>2020-05-14T10:39:12.871474+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -38548,6 +38563,11 @@
               <Distance>29.329626091699765</Distance>
               <HeadAngle x="3.9039216" y="-4.5666213" />
             </CameraControllerSettings>
+            <CameraControllerSettings EntityId="135648888539717895">
+              <IsFirstPerson>true</IsFirstPerson>
+              <Distance>62.050645338800912</Distance>
+              <HeadAngle x="0" y="0" />
+            </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlots>
             <Vector3>
@@ -38672,34 +38692,7 @@
       <item>
         <Key>144115188075855873</Key>
         <Value>
-          <Entries>
-            <Entry>
-              <name>Неизвестный сигнал 3</name>
-              <description />
-              <coords>
-                <X>845.90688459341072</X>
-                <Y>475.76916094344779</Y>
-                <Z>-3977.9989115321732</Z>
-              </coords>
-              <isFinal>true</isFinal>
-              <showOnHud>true</showOnHud>
-              <alwaysVisible>true</alwaysVisible>
-              <color>
-                <PackedValue>4281335725</PackedValue>
-                <X>173</X>
-                <Y>255</Y>
-                <Z>47</Z>
-                <R>173</R>
-                <G>255</G>
-                <B>47</B>
-                <A>255</A>
-              </color>
-              <entityId>89709655858241238</entityId>
-              <isObjective>false</isObjective>
-              <contractId>0</contractId>
-              <DisplayName>Неизвестный сигнал</DisplayName>
-            </Entry>
-          </Entries>
+          <Entries />
         </Value>
       </item>
     </dictionary>
@@ -38773,19 +38766,14 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855873</PlayerId>
-          <Timer>586</Timer>
-          <Active>false</Active>
+          <Timer>387</Timer>
+          <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>89709655858241238</ContainerId>
         </PlayerContainerData>
       </PlayerData>
       <GPSForRemoval />
-      <EntitiesForRemoval>
-        <MyEntityForRemoval>
-          <TimeLeft>514</TimeLeft>
-          <EntityId>131086303858239471</EntityId>
-        </MyEntityForRemoval>
-      </EntitiesForRemoval>
+      <EntitiesForRemoval />
       <ContainerIdSmall>4</ContainerIdSmall>
       <ContainerIdLarge>1</ContainerIdLarge>
     </MyObjectBuilder_SessionComponent>
@@ -70064,7 +70052,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>8000</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>67966</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -70670,6 +70658,27 @@
   </MissionTriggers>
   <CustomSkybox />
   <VicinityModelsCache>
+    <string>Models\Cubes\Small\GeneratorLarge.mwm</string>
+    <string>Models\Cubes\Small\CargoContainerLarge.mwm</string>
+    <string>Models\Cubes\Small\Collector.mwm</string>
+    <string>Models\Cubes\Small\gyroscope.mwm</string>
+    <string>Models\Cubes\Small\OxygenGenerator.mwm</string>
+    <string>Models\Cubes\Small\ThrustSmall.mwm</string>
+    <string>Models\Cubes\Small\cockpit.mwm</string>
+    <string>Models\Cubes\Small\ConnectorMedium.mwm</string>
+    <string>Models\Cubes\Small\ConveyorTurnMedium.mwm</string>
+    <string>Models\Cubes\Small\antenna.mwm</string>
+    <string>Models\Cubes\Small\ConveyorHub.mwm</string>
+    <string>Models\Cubes\Small\Grinder.mwm</string>
+    <string>Models\Cubes\Small\Welder.mwm</string>
+    <string>Models\Cubes\Small\LandingGear.mwm</string>
+    <string>Models\Cubes\Small\light.mwm</string>
+    <string>Models\Cubes\Small\ConveyorFrameMedium.mwm</string>
+    <string>Models\Cubes\Small\CargoContainerSmall.mwm</string>
+    <string>Models\Cubes\Small\Button.mwm</string>
+    <string>Models\Cubes\Small\BatterySmall1x1.mwm</string>
+    <string>Models\Cubes\Small\ParachuteHatch_Small.mwm</string>
+    <string>Models\Cubes\Large\InteriorLight.mwm</string>
     <string>Models\Cubes\Large\Ramp.mwm</string>
     <string>Models\Cubes\Large\ConveyorTube.mwm</string>
     <string>Models\Cubes\Large\OxygenPressurizer.mwm</string>
@@ -70688,7 +70697,6 @@
     <string>Models\Cubes\Large\Collector.mwm</string>
     <string>Models\Cubes\Large\Window1x2Flat.mwm</string>
     <string>Models\Cubes\Large\CargoContainerSmall.mwm</string>
-    <string>Models\Cubes\Large\InteriorLight.mwm</string>
     <string>Models\Cubes\Large\CargoContainerLarge.mwm</string>
     <string>Models\Cubes\Large\ConveyorTubeCurved.mwm</string>
     <string>Models\Cubes\Large\OxygenStorage.mwm</string>
@@ -70713,6 +70721,24 @@
     <string>Models\Cubes\Large\Camera.mwm</string>
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Small\Armor\FaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Small\Armor\SlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Small\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
     <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
