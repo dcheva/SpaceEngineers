@@ -3,7 +3,7 @@
   <Settings xsi:type="MyObjectBuilder_SessionSettings">
     <GameMode>Survival</GameMode>
     <InventorySizeMultiplier>10</InventorySizeMultiplier>
-    <BlocksInventorySizeMultiplier>1</BlocksInventorySizeMultiplier>
+    <BlocksInventorySizeMultiplier>10</BlocksInventorySizeMultiplier>
     <AssemblerSpeedMultiplier>10</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>10</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>10</RefinerySpeedMultiplier>
