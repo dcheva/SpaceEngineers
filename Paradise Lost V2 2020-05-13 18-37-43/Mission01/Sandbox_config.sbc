@@ -114,6 +114,16 @@
     <SimplifiedSimulation>false</SimplifiedSimulation>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Text HUD API">
+      <Name>758597413.sbm</Name>
+      <PublishedFileId>758597413</PublishedFileId>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Modular Encounters Spawner">
+      <Name>1521905890.sbm</Name>
+      <PublishedFileId>1521905890</PublishedFileId>
+      <IsDependency>true</IsDependency>
+    </ModItem>
     <ModItem FriendlyName="Viable Hydrogen">
       <Name>1905243833.sbm</Name>
       <PublishedFileId>1905243833</PublishedFileId>
