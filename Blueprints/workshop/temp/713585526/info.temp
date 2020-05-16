@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<MyObjectBuilder_ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SubtypeName>DMI - V9 Atmospheric Miner</SubtypeName>
+  <SteamIDOwner>76561197967531520</SteamIDOwner>
+  <WorkshopId>713585526</WorkshopId>
+</MyObjectBuilder_ModInfo>
