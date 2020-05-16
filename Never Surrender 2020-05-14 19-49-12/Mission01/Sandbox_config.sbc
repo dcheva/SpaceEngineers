@@ -9,7 +9,7 @@
     <RefinerySpeedMultiplier>10</RefinerySpeedMultiplier>
     <OnlineMode>FRIENDS</OnlineMode>
     <MaxPlayers>16</MaxPlayers>
-    <MaxFloatingObjects>32</MaxFloatingObjects>
+    <MaxFloatingObjects>1024</MaxFloatingObjects>
     <MaxBackupSaves>30</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
