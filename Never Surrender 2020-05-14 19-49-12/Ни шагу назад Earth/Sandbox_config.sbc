@@ -9,7 +9,7 @@
     <RefinerySpeedMultiplier>10</RefinerySpeedMultiplier>
     <OnlineMode>FRIENDS</OnlineMode>
     <MaxPlayers>16</MaxPlayers>
-    <MaxFloatingObjects>1024</MaxFloatingObjects>
+    <MaxFloatingObjects>132</MaxFloatingObjects>
     <MaxBackupSaves>30</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
@@ -43,7 +43,7 @@
     <ProceduralSeed>0</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
     <EnableIngameScripts>true</EnableIngameScripts>
-    <ViewDistance>10000</ViewDistance>
+    <ViewDistance>15000</ViewDistance>
     <EnableToolShake>true</EnableToolShake>
     <VoxelGeneratorVersion>4</VoxelGeneratorVersion>
     <EnableOxygen>true</EnableOxygen>
