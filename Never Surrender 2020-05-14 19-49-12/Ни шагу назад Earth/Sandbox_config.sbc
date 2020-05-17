@@ -124,6 +124,18 @@
       <PublishedFileId>758597413</PublishedFileId>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="Conveyor Hinges - transfer items flexibly">
+      <Name>385778606.sbm</Name>
+      <PublishedFileId>385778606</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Eyes Just Got Clear (1.186 Drugs Are Bad Mkay Update)">
+      <Name>1157796670.sbm</Name>
+      <PublishedFileId>1157796670</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Skybox Earth orbit (Star Wolves 2 The Civil War)">
+      <Name>442584334.sbm</Name>
+      <PublishedFileId>442584334</PublishedFileId>
+    </ModItem>
     <ModItem FriendlyName="Azimuth Overclocked Ore Detectors~(DX-11 Ready)">
       <Name>469301711.sbm</Name>
       <PublishedFileId>469301711</PublishedFileId>
@@ -131,10 +143,6 @@
     <ModItem FriendlyName="Automatic Ore Pickup">
       <Name>657749341.sbm</Name>
       <PublishedFileId>657749341</PublishedFileId>
-    </ModItem>
-    <ModItem FriendlyName="_SD_Nebula_SkyBox_">
-      <Name>2087229509.sbm</Name>
-      <PublishedFileId>2087229509</PublishedFileId>
     </ModItem>
     <ModItem FriendlyName="[EEM] Exploration Enhancement Mod">
       <Name>531659576.sbm</Name>
