@@ -114,15 +114,65 @@
     <SimplifiedSimulation>false</SimplifiedSimulation>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Modular Encounters Spawner">
-      <Name>1521905890.sbm</Name>
-      <PublishedFileId>1521905890</PublishedFileId>
-      <IsDependency>true</IsDependency>
+    <ModItem FriendlyName="Automated Inventory Sorting">
+      <Name>321588701.sbm</Name>
+      <PublishedFileId>321588701</PublishedFileId>
     </ModItem>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-      <IsDependency>true</IsDependency>
+    <ModItem FriendlyName="Azimuth Complete Mega Mod Pack~(DX-11 Ready)">
+      <Name>472832143.sbm</Name>
+      <PublishedFileId>472832143</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Black Hole">
+      <Name>874608376.sbm</Name>
+      <PublishedFileId>874608376</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Build Vision 2.5">
+      <Name>1697184408.sbm</Name>
+      <PublishedFileId>1697184408</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="BuildInfo (extra block&amp;terminal info, air leak finder)">
+      <Name>514062285.sbm</Name>
+      <PublishedFileId>514062285</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Deuterium Fusion Reactors">
+      <Name>1259182705.sbm</Name>
+      <PublishedFileId>1259182705</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Endless Factions for Exploration Mode">
+      <Name>400672013.sbm</Name>
+      <PublishedFileId>400672013</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Energy Shields">
+      <Name>484504816.sbm</Name>
+      <PublishedFileId>484504816</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="HUD Compass">
+      <Name>1469072169.sbm</Name>
+      <PublishedFileId>1469072169</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Kharak (Beta)">
+      <Name>1731305566.sbm</Name>
+      <PublishedFileId>1731305566</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Omni-Function Survival Vessel">
+      <Name>310421977.sbm</Name>
+      <PublishedFileId>310421977</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Paint Gun - realistic painting for suvival + special creative features">
+      <Name>500818376.sbm</Name>
+      <PublishedFileId>500818376</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Projections To Assembler">
+      <Name>1289485324.sbm</Name>
+      <PublishedFileId>1289485324</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Ravcor (Another Texture Update)">
+      <Name>668429328.sbm</Name>
+      <PublishedFileId>668429328</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Caldari Skybox (DX9)">
+      <Name>297296122.sbm</Name>
+      <PublishedFileId>297296122</PublishedFileId>
     </ModItem>
     <ModItem FriendlyName="Eyes Just Got Clear (1.186 Drugs Are Bad Mkay Update)">
       <Name>1157796670.sbm</Name>
