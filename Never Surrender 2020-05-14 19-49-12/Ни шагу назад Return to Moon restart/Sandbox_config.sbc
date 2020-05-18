@@ -114,20 +114,17 @@
     <SimplifiedSimulation>false</SimplifiedSimulation>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Modular Encounters Spawner">
-      <Name>1521905890.sbm</Name>
-      <PublishedFileId>1521905890</PublishedFileId>
-      <IsDependency>true</IsDependency>
+    <ModItem FriendlyName="Sneaky Sounds - Quieter Tools">
+      <Name>1662953858.sbm</Name>
+      <PublishedFileId>1662953858</PublishedFileId>
     </ModItem>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-      <IsDependency>true</IsDependency>
+    <ModItem FriendlyName="Space Just Got Real (1.188 Update 4)">
+      <Name>1136188499.sbm</Name>
+      <PublishedFileId>1136188499</PublishedFileId>
     </ModItem>
-    <ModItem FriendlyName="RichHudMaster">
-      <Name>1965654081.sbm</Name>
-      <PublishedFileId>1965654081</PublishedFileId>
-      <IsDependency>true</IsDependency>
+    <ModItem FriendlyName="Mexpex Warfare Industries v1.1.7">
+      <Name>970804258.sbm</Name>
+      <PublishedFileId>970804258</PublishedFileId>
     </ModItem>
     <ModItem FriendlyName="Automated Inventory Sorting">
       <Name>321588701.sbm</Name>
