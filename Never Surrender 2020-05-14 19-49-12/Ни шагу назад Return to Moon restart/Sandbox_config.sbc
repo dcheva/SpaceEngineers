@@ -31,7 +31,7 @@
     <ResetOwnership>false</ResetOwnership>
     <WelderSpeedMultiplier>5</WelderSpeedMultiplier>
     <GrinderSpeedMultiplier>5</GrinderSpeedMultiplier>
-    <RealisticSound>true</RealisticSound>
+    <RealisticSound>false</RealisticSound>
     <HackSpeedMultiplier>0.33</HackSpeedMultiplier>
     <PermanentDeath>false</PermanentDeath>
     <AutoSaveInMinutes>5</AutoSaveInMinutes>
