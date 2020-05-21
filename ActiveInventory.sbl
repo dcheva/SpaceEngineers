@@ -3,12 +3,14 @@
   <Character>
     <unsignedLong>2543915561436379936</unsignedLong>
     <unsignedLong>2543916195641614211</unsignedLong>
+    <unsignedLong>4651600926866194334</unsignedLong>
     <unsignedLong>2543915561435294124</unsignedLong>
   </Character>
   <Tools>
     <unsignedLong>2543915561434893927</unsignedLong>
     <unsignedLong>2560803425995286781</unsignedLong>
+    <unsignedLong>4651600926866069797</unsignedLong>
   </Tools>
-  <Color x="0.055555556" y="0.199999988" z="0.349494845" />
+  <Color x="0" y="0.199999988" z="0.349494845" />
   <Model>Default_Astronaut</Model>
 </MyObjectBuilder_SkinInventory>
