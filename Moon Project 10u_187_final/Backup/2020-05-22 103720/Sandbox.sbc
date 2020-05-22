@@ -1,0 +1,1064 @@
+<?xml version="1.0"?>
+<MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CurrentSector x="0" y="0" z="0" />
+  <ElapsedGameTime>5249117440000</ElapsedGameTime>
+  <SessionName>Moon Project 10u_187_final</SessionName>
+  <SpectatorPosition>
+    <Position x="30470.553027529957" y="21910.105789292247" z="4025.815650394793" />
+    <Forward x="-0.759706736" y="0.507983565" z="-0.405953616" />
+    <Up x="0.08988841" y="-0.5362569" z="-0.8392548" />
+    <Orientation>
+      <X>0.348668963</X>
+      <Y>-0.418871254</Y>
+      <Z>0.804088533</Z>
+      <W>-0.2375256</W>
+    </Orientation>
+  </SpectatorPosition>
+  <SpectatorSpeed x="1.13906252" y="1" />
+  <SpectatorIsLightOn>false</SpectatorIsLightOn>
+  <CameraController>ThirdPersonSpectator</CameraController>
+  <CameraEntity>0</CameraEntity>
+  <ControlledObject>126670641948591057</ControlledObject>
+  <Password />
+  <Description />
+  <LastSaveTime>2020-05-22T10:37:14.2034597+03:00</LastSaveTime>
+  <SpectatorDistance>2.5</SpectatorDistance>
+  <CharacterToolbar>
+    <ToolbarType>Character</ToolbarType>
+    <SelectedSlot xsi:nil="true" />
+    <Slots>
+      <Slot>
+        <Index>0</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>1</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeHeavyBlockArmorBlock" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>2</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_Cockpit" Subtype="LargeBlockCockpitSeat" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>3</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_Reactor" Subtype="LargeBlockSmallGenerator" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>4</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="LargeBlockSmallThrust" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>5</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="LargeBlockSmallAtmosphericThrust" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>6</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_Gyro" Subtype="LargeBlockGyro" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>7</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_MotorSuspension" Subtype="Suspension3x3" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>8</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_AirtightSlideDoor" Subtype="LargeBlockSlideDoor" />
+        </Data>
+      </Slot>
+    </Slots>
+    <SlotsGamepad />
+  </CharacterToolbar>
+  <ControlledEntities>
+    <dictionary>
+      <item>
+        <Key>126670641948591057</Key>
+        <Value>
+          <ClientId>76561198412322587</ClientId>
+          <SerialId>0</SerialId>
+        </Value>
+      </item>
+    </dictionary>
+  </ControlledEntities>
+  <Settings xsi:type="MyObjectBuilder_SessionSettings">
+    <GameMode>Creative</GameMode>
+    <InventorySizeMultiplier>10</InventorySizeMultiplier>
+    <BlocksInventorySizeMultiplier>1</BlocksInventorySizeMultiplier>
+    <AssemblerSpeedMultiplier>3</AssemblerSpeedMultiplier>
+    <AssemblerEfficiencyMultiplier>3</AssemblerEfficiencyMultiplier>
+    <RefinerySpeedMultiplier>3</RefinerySpeedMultiplier>
+    <OnlineMode>OFFLINE</OnlineMode>
+    <MaxPlayers>4</MaxPlayers>
+    <MaxFloatingObjects>56</MaxFloatingObjects>
+    <MaxBackupSaves>5</MaxBackupSaves>
+    <MaxGridSize>0</MaxGridSize>
+    <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
+    <TotalPCU>0</TotalPCU>
+    <PiratePCU>50000</PiratePCU>
+    <MaxFactionsCount>0</MaxFactionsCount>
+    <BlockLimitsEnabled>NONE</BlockLimitsEnabled>
+    <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
+    <EnvironmentHostility>SAFE</EnvironmentHostility>
+    <AutoHealing>true</AutoHealing>
+    <EnableCopyPaste>true</EnableCopyPaste>
+    <WeaponsEnabled>true</WeaponsEnabled>
+    <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
+    <ThrusterDamage>true</ThrusterDamage>
+    <CargoShipsEnabled>false</CargoShipsEnabled>
+    <EnableSpectator>true</EnableSpectator>
+    <WorldSizeKm>0</WorldSizeKm>
+    <RespawnShipDelete>true</RespawnShipDelete>
+    <ResetOwnership>false</ResetOwnership>
+    <WelderSpeedMultiplier>2</WelderSpeedMultiplier>
+    <GrinderSpeedMultiplier>2</GrinderSpeedMultiplier>
+    <RealisticSound>false</RealisticSound>
+    <HackSpeedMultiplier>0.33</HackSpeedMultiplier>
+    <PermanentDeath>false</PermanentDeath>
+    <AutoSaveInMinutes>0</AutoSaveInMinutes>
+    <EnableSaving>true</EnableSaving>
+    <InfiniteAmmo>false</InfiniteAmmo>
+    <EnableContainerDrops>true</EnableContainerDrops>
+    <SpawnShipTimeMultiplier>0.5</SpawnShipTimeMultiplier>
+    <DestructibleBlocks>true</DestructibleBlocks>
+    <EnableIngameScripts>true</EnableIngameScripts>
+    <ViewDistance>15000</ViewDistance>
+    <EnableToolShake>true</EnableToolShake>
+    <VoxelGeneratorVersion>4</VoxelGeneratorVersion>
+    <EnableOxygen>true</EnableOxygen>
+    <EnableOxygenPressurization>true</EnableOxygenPressurization>
+    <Enable3rdPersonView>true</Enable3rdPersonView>
+    <EnableEncounters>false</EnableEncounters>
+    <EnableConvertToStation>true</EnableConvertToStation>
+    <StationVoxelSupport>false</StationVoxelSupport>
+    <EnableSunRotation>false</EnableSunRotation>
+    <EnableRespawnShips>true</EnableRespawnShips>
+    <ScenarioEditMode>false</ScenarioEditMode>
+    <Scenario>false</Scenario>
+    <CanJoinRunning>false</CanJoinRunning>
+    <PhysicsIterations>4</PhysicsIterations>
+    <SunRotationIntervalMinutes>1</SunRotationIntervalMinutes>
+    <EnableJetpack>true</EnableJetpack>
+    <SpawnWithTools>true</SpawnWithTools>
+    <StartInRespawnScreen>false</StartInRespawnScreen>
+    <EnableVoxelDestruction>true</EnableVoxelDestruction>
+    <MaxDrones>5</MaxDrones>
+    <EnableDrones>false</EnableDrones>
+    <EnableWolfs>false</EnableWolfs>
+    <EnableSpiders>true</EnableSpiders>
+    <FloraDensityMultiplier>1</FloraDensityMultiplier>
+    <EnableStructuralSimulation>false</EnableStructuralSimulation>
+    <MaxActiveFracturePieces>50</MaxActiveFracturePieces>
+    <BlockTypeLimits>
+      <dictionary>
+        <item>
+          <Key>Assembler</Key>
+          <Value>24</Value>
+        </item>
+        <item>
+          <Key>Refinery</Key>
+          <Value>24</Value>
+        </item>
+        <item>
+          <Key>Blast Furnace</Key>
+          <Value>24</Value>
+        </item>
+        <item>
+          <Key>Antenna</Key>
+          <Value>30</Value>
+        </item>
+        <item>
+          <Key>Drill</Key>
+          <Value>30</Value>
+        </item>
+        <item>
+          <Key>InteriorTurret</Key>
+          <Value>50</Value>
+        </item>
+        <item>
+          <Key>GatlingTurret</Key>
+          <Value>50</Value>
+        </item>
+        <item>
+          <Key>MissileTurret</Key>
+          <Value>50</Value>
+        </item>
+        <item>
+          <Key>ExtendedPistonBase</Key>
+          <Value>50</Value>
+        </item>
+        <item>
+          <Key>MotorStator</Key>
+          <Value>50</Value>
+        </item>
+        <item>
+          <Key>MotorAdvancedStator</Key>
+          <Value>50</Value>
+        </item>
+        <item>
+          <Key>ShipWelder</Key>
+          <Value>100</Value>
+        </item>
+        <item>
+          <Key>ShipGrinder</Key>
+          <Value>150</Value>
+        </item>
+      </dictionary>
+    </BlockTypeLimits>
+    <EnableScripterRole>false</EnableScripterRole>
+    <MinDropContainerRespawnTime>2</MinDropContainerRespawnTime>
+    <MaxDropContainerRespawnTime>45</MaxDropContainerRespawnTime>
+    <EnableTurretsFriendlyFire>false</EnableTurretsFriendlyFire>
+    <EnableSubgridDamage>false</EnableSubgridDamage>
+    <SyncDistance>3000</SyncDistance>
+    <ExperimentalMode>true</ExperimentalMode>
+    <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
+    <EnableVoxelHand>true</EnableVoxelHand>
+    <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
+    <TrashRemovalEnabled>true</TrashRemovalEnabled>
+    <StopGridsPeriodMin>15</StopGridsPeriodMin>
+    <TrashFlagsValue>1562</TrashFlagsValue>
+    <AFKTimeountMin>0</AFKTimeountMin>
+    <BlockCountThreshold>20</BlockCountThreshold>
+    <PlayerDistanceThreshold>500</PlayerDistanceThreshold>
+    <OptimalGridCount>0</OptimalGridCount>
+    <PlayerInactivityThreshold>0</PlayerInactivityThreshold>
+    <PlayerCharacterRemovalThreshold>15</PlayerCharacterRemovalThreshold>
+    <VoxelTrashRemovalEnabled>false</VoxelTrashRemovalEnabled>
+    <VoxelPlayerDistanceThreshold>5000</VoxelPlayerDistanceThreshold>
+    <VoxelGridDistanceThreshold>5000</VoxelGridDistanceThreshold>
+    <VoxelAgeThreshold>24</VoxelAgeThreshold>
+    <EnableResearch>false</EnableResearch>
+    <EnableGoodBotHints>true</EnableGoodBotHints>
+    <OptimalSpawnDistance>900</OptimalSpawnDistance>
+    <EnableAutorespawn>true</EnableAutorespawn>
+    <EnableBountyContracts>true</EnableBountyContracts>
+    <EnableSupergridding>false</EnableSupergridding>
+    <EnableEconomy>false</EnableEconomy>
+    <DepositsCountCoefficient>2</DepositsCountCoefficient>
+    <DepositSizeDenominator>30</DepositSizeDenominator>
+    <HarvestRatioMultiplier>1</HarvestRatioMultiplier>
+    <TradeFactionsCount>15</TradeFactionsCount>
+    <StationsDistanceInnerRadius>10000000</StationsDistanceInnerRadius>
+    <StationsDistanceOuterRadiusStart>10000000</StationsDistanceOuterRadiusStart>
+    <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
+    <EconomyTickInSeconds>1200</EconomyTickInSeconds>
+    <SimplifiedSimulation>false</SimplifiedSimulation>
+  </Settings>
+  <ScriptManagerData>
+    <variables>
+      <dictionary />
+    </variables>
+  </ScriptManagerData>
+  <AppVersion>1194211</AppVersion>
+  <Factions>
+    <Factions>
+      <MyObjectBuilder_Faction>
+        <FactionId>242339781522495336</FactionId>
+        <Tag>SPRT</Tag>
+        <Name>Космические пираты</Name>
+        <PrivateInfo />
+        <Members>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075855874</PlayerId>
+            <IsLeader>true</IsLeader>
+            <IsFounder>true</IsFounder>
+          </MyObjectBuilder_FactionMember>
+        </Members>
+        <JoinRequests />
+        <AutoAcceptMember>true</AutoAcceptMember>
+        <AutoAcceptPeace>false</AutoAcceptPeace>
+        <AcceptHumans>false</AcceptHumans>
+        <EnableFriendlyFire>false</EnableFriendlyFire>
+        <FactionType>Trader</FactionType>
+        <Stations />
+        <CustomColor x="0" y="-0.8" z="-0.450000018" />
+        <IconColor x="0" y="0" z="0" />
+        <FactionIcon>Textures\FactionLogo\PirateIcon.dds</FactionIcon>
+        <TransferedPCUDelta>0</TransferedPCUDelta>
+      </MyObjectBuilder_Faction>
+    </Factions>
+    <Players>
+      <dictionary>
+        <item>
+          <Key>144115188075855874</Key>
+          <Value>242339781522495336</Value>
+        </item>
+      </dictionary>
+    </Players>
+    <Relations />
+    <RelationsWithPlayers />
+    <Requests />
+    <PlayerToFactionsVis>
+      <MyObjectBuilder_FactionsVisEntry>
+        <PlayerId>76561197971180483</PlayerId>
+        <SerialId>0</SerialId>
+        <DiscoveredFactions>
+          <long>242339781522495336</long>
+        </DiscoveredFactions>
+      </MyObjectBuilder_FactionsVisEntry>
+      <MyObjectBuilder_FactionsVisEntry>
+        <PlayerId>76561198412322587</PlayerId>
+        <SerialId>0</SerialId>
+        <DiscoveredFactions>
+          <long>242339781522495336</long>
+        </DiscoveredFactions>
+      </MyObjectBuilder_FactionsVisEntry>
+    </PlayerToFactionsVis>
+  </Factions>
+  <Mods>
+    <ModItem FriendlyName="S - Moon Project - Moon Sentinels - (2 part of Moon Project)">
+      <Name>932872179.sbm</Name>
+      <PublishedFileId>932872179</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="S - Moon Project Final - DX11 - WIP">
+      <Name>1546369205.sbm</Name>
+      <PublishedFileId>1546369205</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="S - Moon Project Ancient Suits - (7 part of Moon Project)">
+      <Name>1171480134.sbm</Name>
+      <PublishedFileId>1171480134</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="S - Old Skybox - (5 part of Moon Project)">
+      <Name>859206845.sbm</Name>
+      <PublishedFileId>859206845</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="S - Moon Project AC Weapons  - (6 part of Moon Project)">
+      <Name>1197416087.sbm</Name>
+      <PublishedFileId>1197416087</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="S - Moon Project Standard Weapons - (4 part of Moon Project)">
+      <Name>1207491998.sbm</Name>
+      <PublishedFileId>1207491998</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="S - Moon Project - Moon Rover - (3 part of Moon Project)">
+      <Name>1102563162.sbm</Name>
+      <PublishedFileId>1102563162</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="S - Moon Project Suits - (1 part of Moon Project)">
+      <Name>840887526.sbm</Name>
+      <PublishedFileId>840887526</PublishedFileId>
+    </ModItem>
+  </Mods>
+  <PromotedUsers>
+    <dictionary />
+  </PromotedUsers>
+  <CreativeTools />
+  <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
+  <RespawnCooldowns />
+  <Identities>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855873</IdentityId>
+      <DisplayName>dmytro.cheva</DisplayName>
+      <CharacterEntityId>126670641948591057</CharacterEntityId>
+      <Model>Default_Astronaut</Model>
+      <ColorMask x="0" y="0.199999988" z="0.349494845" />
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2020-05-22T10:37:13.9539499+03:00</LastLoginTime>
+      <SavedCharacters>
+        <long>126670641948591057</long>
+      </SavedCharacters>
+      <LastLogoutTime>2020-05-22T10:37:14.2034597+03:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855874</IdentityId>
+      <DisplayName>Space Pirates</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2020-05-22T10:37:14.1530422+03:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+  </Identities>
+  <PreviousEnvironmentHostility>SAFE</PreviousEnvironmentHostility>
+  <AllPlayersData>
+    <dictionary>
+      <item>
+        <Key>
+          <ClientId>76561198412322587</ClientId>
+          <SerialId>0</SerialId>
+        </Key>
+        <Value>
+          <DisplayName>dmytro.cheva</DisplayName>
+          <IdentityId>144115188075855873</IdentityId>
+          <Connected>true</Connected>
+          <ForceRealPlayer>false</ForceRealPlayer>
+          <Toolbar>
+            <ToolbarType>Character</ToolbarType>
+            <SelectedSlot xsi:nil="true" />
+            <Slots>
+              <Slot>
+                <Index>0</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>1</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeHeavyBlockArmorBlock" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>2</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Cockpit" Subtype="LargeBlockCockpitSeat" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>3</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Reactor" Subtype="LargeBlockSmallGenerator" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>4</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="LargeBlockSmallThrust" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>5</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="LargeBlockSmallAtmosphericThrust" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>6</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Gyro" Subtype="LargeBlockGyro" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>7</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_MotorSuspension" Subtype="Suspension3x3" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>8</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_AirtightSlideDoor" Subtype="LargeBlockSlideDoor" />
+                </Data>
+              </Slot>
+            </Slots>
+            <SlotsGamepad />
+          </Toolbar>
+          <EntityCameraData />
+          <BuildColorSlots>
+            <Vector3>
+              <X>0</X>
+              <Y>-0.8</Y>
+              <Z>7.450581E-09</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>0</Y>
+              <Z>0.04999999</Z>
+            </Vector3>
+            <Vector3>
+              <X>0.333333343</X>
+              <Y>-0.48</Y>
+              <Z>-0.25</Z>
+            </Vector3>
+            <Vector3>
+              <X>0.575</X>
+              <Y>0</Y>
+              <Z>0</Z>
+            </Vector3>
+            <Vector3>
+              <X>0.122222222</X>
+              <Y>-0.1</Y>
+              <Z>0.26</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>-0.95</Y>
+              <Z>0.4</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>-0.96</Y>
+              <Z>-0.5</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>-0.85</Y>
+              <Z>0.2</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>0.15</Y>
+              <Z>0.25</Z>
+            </Vector3>
+            <Vector3>
+              <X>0.333333343</X>
+              <Y>-0.329999983</Y>
+              <Z>-0.049999997</Z>
+            </Vector3>
+            <Vector3>
+              <X>0.575</X>
+              <Y>0.15</Y>
+              <Z>0.2</Z>
+            </Vector3>
+            <Vector3>
+              <X>0.122222222</X>
+              <Y>0.0500000045</Y>
+              <Z>0.459999979</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>-0.799999952</Y>
+              <Z>0.6</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>-0.809999943</Y>
+              <Z>-0.3</Z>
+            </Vector3>
+          </BuildColorSlots>
+          <BuildArmorSkin />
+          <BuildColorSlot>1</BuildColorSlot>
+        </Value>
+      </item>
+    </dictionary>
+  </AllPlayersData>
+  <AllPlayersColors>
+    <dictionary>
+      <item>
+        <Key>
+          <ClientId>76561197996829390</ClientId>
+          <SerialId>0</SerialId>
+        </Key>
+        <Value>
+          <Vector3>
+            <X>0</X>
+            <Y>-1</Y>
+            <Z>0</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>0</Y>
+            <Z>0.05</Z>
+          </Vector3>
+          <Vector3>
+            <X>0.333333343</X>
+            <Y>-0.48</Y>
+            <Z>-0.25</Z>
+          </Vector3>
+          <Vector3>
+            <X>0.575</X>
+            <Y>0</Y>
+            <Z>0</Z>
+          </Vector3>
+          <Vector3>
+            <X>0.122222222</X>
+            <Y>-0.1</Y>
+            <Z>0.26</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>-0.95</Y>
+            <Z>0.4</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>-0.96</Y>
+            <Z>-0.5</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>-0.85</Y>
+            <Z>0.2</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>0.15</Y>
+            <Z>0.25</Z>
+          </Vector3>
+          <Vector3>
+            <X>0.333333343</X>
+            <Y>-0.329999983</Y>
+            <Z>-0.049999997</Z>
+          </Vector3>
+          <Vector3>
+            <X>0.575</X>
+            <Y>0.15</Y>
+            <Z>0.2</Z>
+          </Vector3>
+          <Vector3>
+            <X>0.122222222</X>
+            <Y>0.0500000045</Y>
+            <Z>0.459999979</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>-0.799999952</Y>
+            <Z>0.6</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>-0.809999943</Y>
+            <Z>-0.3</Z>
+          </Vector3>
+        </Value>
+      </item>
+    </dictionary>
+  </AllPlayersColors>
+  <NonPlayerIdentities>
+    <long>144115188075855874</long>
+  </NonPlayerIdentities>
+  <Gps>
+    <dictionary />
+  </Gps>
+  <SessionComponents>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_LocalizationSessionComponent">
+      <AdditionalPaths />
+      <CampaignPaths />
+      <CampaignModFolderName />
+      <Language>English</Language>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SharedStorageComponent">
+      <ExistingFieldsAndStaticAttribute>
+        <dictionary />
+      </ExistingFieldsAndStaticAttribute>
+      <BoolStorage>
+        <dictionary />
+      </BoolStorage>
+      <IntStorage>
+        <dictionary />
+      </IntStorage>
+      <LongStorage>
+        <dictionary />
+      </LongStorage>
+      <StringStorage>
+        <dictionary />
+      </StringStorage>
+      <FloatStorage>
+        <dictionary />
+      </FloatStorage>
+      <Vector3DStorage>
+        <dictionary />
+      </Vector3DStorage>
+      <BoolListStorage>
+        <dictionary />
+      </BoolListStorage>
+      <IntListStorage>
+        <dictionary />
+      </IntListStorage>
+      <LongListStorage>
+        <dictionary />
+      </LongListStorage>
+      <StringListStorage>
+        <dictionary />
+      </StringListStorage>
+      <FloatListStorage>
+        <dictionary />
+      </FloatListStorage>
+      <Vector3DListStorage>
+        <dictionary />
+      </Vector3DListStorage>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpaceFaunaComponent">
+      <SpawnInfos>
+        <Info X="30478.5306819372" Y="21919.572048353104" Z="4023.8380512690974" S="21767" A="21767" />
+      </SpawnInfos>
+      <TimeoutInfos />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CampaignSessionComponent">
+      <IsVanilla>false</IsVanilla>
+      <Mod />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_MyIGCSystemSessionComponent">
+      <ActiveProgrammableBlocks />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
+      <BaseSunDirection x="-0.339467376" y="-0.7097954" z="0.6172134" />
+      <WeatherPlanetData />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentAssetModifiers" />
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContainerDropSystem">
+      <Definition Type="MyObjectBuilder_ContainerDropSystemDefinition" Subtype="Default" />
+      <PlayerData />
+      <GPSForRemoval />
+      <EntitiesForRemoval />
+      <ContainerIdSmall>1</ContainerIdSmall>
+      <ContainerIdLarge>1</ContainerIdLarge>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContractSystem">
+      <Definition Type="MyObjectBuilder_SessionComponentContractSystemDefinition" Subtype="Default" />
+      <InactiveContracts />
+      <ActiveContracts />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CutsceneSessionComponent">
+      <Cutscenes />
+      <VoxelPrecachingWaypointNames />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_MySessionComponentDLC" />
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentEconomy">
+      <Definition Type="MyObjectbuilder_SessionComponentEconomyDefinition" Subtype="Default" />
+      <GenerateFactionsOnStart>true</GenerateFactionsOnStart>
+      <AnalysisTotalCurrency>0</AnalysisTotalCurrency>
+      <AnalysisCurrencyFaucet>0</AnalysisCurrencyFaucet>
+      <AnalysisCurrencySink>0</AnalysisCurrencySink>
+      <CurrencyGeneratedThisTick>0</CurrencyGeneratedThisTick>
+      <CurrencyDestroyedThisTick>0</CurrencyDestroyedThisTick>
+      <AnalysisPerPlayerCurrency />
+      <AnalysisPerFactionCurrency />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentGameInventory" />
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentReplay">
+      <EntityReplayData />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentResearch">
+      <WhitelistMode>false</WhitelistMode>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponent" />
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_VisualScriptManagerSessionComponent">
+      <FirstRun>false</FirstRun>
+      <LevelScriptFiles xsi:nil="true" />
+      <StateMachines xsi:nil="true" />
+      <ScriptStateMachineManager>
+        <ActiveStateMachines />
+      </ScriptStateMachineManager>
+      <Questlog>
+        <LineData />
+        <Title />
+        <Visible>false</Visible>
+        <IsUsedByVisualScripting>false</IsUsedByVisualScripting>
+      </Questlog>
+      <ExclusiveHighlights>
+        <ExclusiveHighlightData />
+      </ExclusiveHighlights>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
+      <TimeSinceLastEventInMs>58783</TimeSinceLastEventInMs>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
+      <Definition Type="MyObjectBuilder_CoordinateSystemDefinition" Subtype="CoordinateSystem" />
+      <LastCoordSysId>202</LastCoordSysId>
+      <CoordSystems>
+        <CoordSysInfo>
+          <Id>5</Id>
+          <EntityCount>1</EntityCount>
+          <Rotation x="-0.317730516" y="0.826872766" z="-0.46403423" w="0.0009867636" />
+          <Position x="23216.10399055481" y="30712.257771372795" z="4128.2187081426382" />
+        </CoordSysInfo>
+        <CoordSysInfo>
+          <Id>71</Id>
+          <EntityCount>1</EntityCount>
+          <Rotation x="0.203505933" y="-0.431711018" z="0.853705049" w="-0.20832333" />
+          <Position x="29916.75214353505" y="22130.093328383813" z="3724.9216138071074" />
+        </CoordSysInfo>
+        <CoordSysInfo>
+          <Id>84</Id>
+          <EntityCount>1</EntityCount>
+          <Rotation x="0.154982179" y="-0.261718661" z="0.819682062" w="-0.4853918" />
+          <Position x="34925.717855811119" y="24096.981710195541" z="5549.7069597244263" />
+        </CoordSysInfo>
+        <CoordSysInfo>
+          <Id>157</Id>
+          <EntityCount>1</EntityCount>
+          <Rotation x="0.88705945" y="0.148182124" z="0.0448354967" w="-0.434922278" />
+          <Position x="31057.165429141198" y="21786.780573348697" z="4317.801642178938" />
+        </CoordSysInfo>
+      </CoordSystems>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_BankingSystem">
+      <Definition Type="MyObjectBuilder_BankingSystemDefinition" Subtype="BankingSystem" />
+      <Accounts>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075855873</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075855873</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075855874</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075855874</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>242339781522495336</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>242339781522495336</OwnerIdentifier>
+            <Balance>0</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+      </Accounts>
+      <OverallBalance>20000</OverallBalance>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_NeutralShipSpawner">
+      <ShipsInProgress />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_PirateAntennas">
+      <PiratesIdentity>144115188075855874</PiratesIdentity>
+      <Drones />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_Encounters">
+      <SavedEncounters />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_WorldGenerator">
+      <MarkedAreas>
+        <EmptyArea>
+          <Position>
+            <X>28224.419275743294</X>
+            <Y>27200.007550064605</Y>
+            <Z>11439.223416762521</Z>
+          </Position>
+          <Radius>9785</Radius>
+        </EmptyArea>
+      </MarkedAreas>
+      <DeletedAreas />
+      <ExistingObjectsSeeds />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentSafeZones">
+      <AllowedActions>All</AllowedActions>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AIComponent" />
+  </SessionComponents>
+  <GameDefinition Type="MyObjectBuilder_GameDefinition" Subtype="Default" />
+  <SessionComponentEnabled />
+  <SessionComponentDisabled />
+  <InGameTime>2081-01-01T07:00:00</InGameTime>
+  <MissionTriggers>
+    <Triggers>
+      <dictionary>
+        <item>
+          <Key>
+            <stm>76561197971180483</stm>
+            <ser>0</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key>
+            <stm>0</stm>
+            <ser>0</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+      </dictionary>
+    </Triggers>
+  </MissionTriggers>
+  <CustomSkybox />
+  <RequiresDX>11</RequiresDX>
+  <VicinityModelsCache>
+    <string>D:\Steam\steamapps\workshop\content\244850\1102563162\Models\Cubes\Small\SmoonWheelSuspension5x5sm.mwm</string>
+    <string>Models\Cubes\Small\ConnectorMedium.mwm</string>
+    <string>Models\Cubes\Small\GeneratorSmall.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1102563162\Models\Cubes\Small\MotorSuspensionLarge.mwm</string>
+    <string>Models\Cubes\Small\conveyor.mwm</string>
+    <string>Models\Cubes\Small\OxygenStorage.mwm</string>
+    <string>Models\Cubes\Small\light.mwm</string>
+    <string>Models\Cubes\Small\gyroscope.mwm</string>
+    <string>Models\Cubes\Small\BatterySmall.mwm</string>
+    <string>Models\Cubes\Large\InteriorLight.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1102563162\Models\Cubes\Small\mooncockpit01.mwm</string>
+    <string>Models\Cubes\Small\VirtualMassBlock.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1102563162\Models\Cubes\Small\pressure_thruster01.mwm</string>
+    <string>Models\Cubes\Small\antenna.mwm</string>
+    <string>Models\Cubes\Small\OxygenGenerator.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1102563162\Models\Cubes\Small\moonsolarsm1.mwm</string>
+    <string>Models\Cubes\Small\CargoContainerMedium.mwm</string>
+    <string>Models\Cubes\Large\PistonTop.mwm</string>
+    <string>Models\Cubes\Large\Connector.mwm</string>
+    <string>Models\Cubes\Large\Ramp.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\arm4ndoor03.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset1airlock.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset1.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4upairvent2.mwm</string>
+    <string>Models\Cubes\Large\conveyor.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\arm4ndoor02.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset7.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset12door.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset11.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\scryopod.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\mpashipseat05.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4conveyor.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4medp.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\wall_lcd03.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\wall_lcd01.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\mpaCatwalk.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4airvent.mwm</string>
+    <string>Models\Cubes\Large\BatteryLarge.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\mpaCatwalkWall.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\nconsolecp1.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\mpaCatwalkSlope.mwm</string>
+    <string>Models\Cubes\Large\GravityGenerator.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\extinguisher.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4Ramp.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\mpaCatwalk_Plate.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\arm3spotlightg01.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\NMGeneratorLarge01.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4navglight.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\nconsolelcd1.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\wall_lcd02.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\mpashipseat06.mwm</string>
+    <string>Models\Cubes\Large\ProgrammingBlock.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset1_ds4.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset1_ds5.mwm</string>
+    <string>Models\Cubes\Large\LCDPanel.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\mpaCatwalk_2Sides.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\mpashipseat01.mwm</string>
+    <string>Models\Cubes\Large\CargoContainerSmall.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset2.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset2c.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\nconsolecp2.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset3.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset6.mwm</string>
+    <string>Models\Cubes\Large\CoverWall.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\mpaCatwalk_Corner.mwm</string>
+    <string>Models\Cubes\Large\ArmorCenter.mwm</string>
+    <string>Models\Cubes\Large\Window1x1FlatInv.mwm</string>
+    <string>Models\Cubes\Large\HangarDoor_base.mwm</string>
+    <string>Models\Cubes\Large\InteriorPillar.mwm</string>
+    <string>Models\Cubes\Large\ButtonPanel.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4door3.mwm</string>
+    <string>Models\Cubes\Large\LandingGear.mwm</string>
+    <string>Models\Cubes\Large\PistonBase.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\2.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\1.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\4.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateConstruction_1.mwm</string>
+    <string>Models\Cubes\Large\SteelCatwalk.mwm</string>
+    <string>Models\Cubes\Large\SteelCatwalk_Corner.mwm</string>
+    <string>Models\Cubes\Large\Stairs.mwm</string>
+    <string>Models\Cubes\Large\SteelCatwalk_Plate.mwm</string>
+    <string>Models\Cubes\Large\WindowSquare.mwm</string>
+    <string>Models\Cubes\Large\ConveyorTube.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateConstruction_1.mwm</string>
+    <string>Models\Cubes\Large\WindowEdge.mwm</string>
+    <string>Models\Cubes\Large\Window1x1Slope.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4door2.mwm</string>
+    <string>Models\Cubes\Large\CargoContainerLarge.mwm</string>
+    <string>Models\Cubes\Large\ConveyorTubeCurved.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\sncsys01.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\sncsys02.mwm</string>
+    <string>Models\Cubes\Large\Refinery.mwm</string>
+    <string>Models\Cubes\Large\Assembler.mwm</string>
+    <string>Models\Cubes\Large\OxygenStorage.mwm</string>
+    <string>Models\Cubes\Large\OxygenGenerator.mwm</string>
+    <string>Models\Cubes\Large\ConveyorSorter.mwm</string>
+    <string>Models\Cubes\Large\Window3x3FlatInv.mwm</string>
+    <string>Models\Cubes\Large\HydrogenTank.mwm</string>
+    <string>Models\Cubes\large\Corner_LCD_Flat_2.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4door1.mwm</string>
+    <string>Models\Cubes\Large\Window1x2FlatInv.mwm</string>
+    <string>Models\Cubes\Large\antenna.mwm</string>
+    <string>Models\Cubes\Large\SolarHydroponics.mwm</string>
+    <string>Models\Cubes\Large\Collector.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\a4armory.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\bartable01.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\barcorner.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\barclean.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\bar.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\barcornerclean.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\barjukebox.mwm</string>
+    <string>Models\Cubes\Large\SolarPanel.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\b.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\a2.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\s.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\e.mwm</string>
+  </VicinityModelsCache>
+  <VicinityArmorModelsCache>
+    <string>Models\Cubes\Small\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\FaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Small\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\MoonPS6CornerTriangleRightPlate.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset8.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\MoonPS6CornerTriangleLeftPlate.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\MoonPS6FaceTrianglePlate.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\MoonPS6SlopePlate.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset10b.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset9.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4floor1botom.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4floor2top.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset4.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\MoonPS6SquarePlate.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\MoonPS6invFaceTrianglePlate.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset10.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4interset5.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4floor1side.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4floor1top.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\1546369205\Models\Cubes\Large\armor4uei_SquarePlate.mwm</string>
+  </VicinityArmorModelsCache>
+  <VicinityVoxelCache>
+    <string>MoonRocks</string>
+    <string>MoonSoil</string>
+    <string>Nickel_01</string>
+    <string>Iron_02</string>
+    <string>Uraninite_01</string>
+    <string>Silicon_01</string>
+    <string>Magnesium_01</string>
+  </VicinityVoxelCache>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
+</MyObjectBuilder_Checkpoint>
